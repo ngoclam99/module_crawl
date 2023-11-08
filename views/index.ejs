@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Trang chủ</title>
+		<link rel="stylesheet" href="https://intense-stream-33097-7a3dc2003271.herokuapp.com/bootstrap/css/bootstrap.min.css">
+		<script src="https://intense-stream-33097-7a3dc2003271.herokuapp.com/jquery/jquery.js"></script>
+		<script src="https://intense-stream-33097-7a3dc2003271.herokuapp.com/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://intense-stream-33097-7a3dc2003271.herokuapp.com/socket.io/socket.io.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				var socket = io("https://intense-stream-33097-7a3dc2003271.herokuapp.com/");
+                socket.emit("LoadDataTBMT");
+
+                $("#update_tbmt").click(function() {
+                    page = $("#page_tbmt").val();
+                    socket.emit("Update-TBMT", page);
+                });
+
+                 // Trả dữ liệu về cho người dùng
+                socket.on("Server-Update-TBMT", function(data) {
+                    
+                });
+
+                // Trả dữ liệu về cho người dùng
+                socket.on("DataServer-TBMT", function(data) {
+                    console.log(data);
+                    $(".data_detail").html(data);
+                });
+			});
+		</script>
+	</head>
+	<body>
+		<div class="container" style="box-shadow: 0px 0px 10px 0px #ccc; margin-top: 25px;">
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th class="text-center">STT</th>
+						<th class="text-center">
+							Tiêu đề
+						</th>
+						<th class="text-center">Tác vụ</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="text-center">
+							<p>Thông báo mời thầu</p>
+							<label for="">Bóc dữ liệu đến trang</label>
+                            <input type="text" class="form-control" placeholder="Page" value="5" id="page_tbmt">
+                        </td>
+						<td class="text-center">
+                            <p>Chi tiết thông báo mời thầu</p>
+                            <label for="">Url Chi tiết</label>
+                            <input type="text" class="form-control" placeholder="" value="" id="url_tbmt_detail">
+                        </td>
+						<td class="text-center">
+							<button class="btn btn-sm btn-primary update_tbmt" id="update_tbmt">Cập nhật TBMT</button>
+							<button class="btn btn-sm btn-success update_detail_tbmt">Cập nhật chi tiết TBMT</button>
+						</td>
+					</tr>
+
+					<tr>
+						<td class="text-center">
+							<p>Kết quả lựa chọn nhà thầu</p>
+							<label for="">Bóc dữ liệu đến trang</label>
+                            <input type="text" class="form-control" placeholder="Page" value="5" id="page_kqlcnt">
+						</td>
+						<td class="text-center">
+                            <p>Chi tiết Kết quả lựa chọn nhà thầu</p>
+                            <label for="">Url Chi tiết</label>
+                            <input type="text" class="form-control" placeholder="" value="" id="url_tbmt_detail">
+                        </td>
+						<td class="text-center">
+							<button class="btn btn-sm btn-primary">Cập nhật KQLCNT</button>
+							<button class="btn btn-sm btn-success">Cập nhật chi tiết KQLCNT</button>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+            <hr>
+			<div class="data hidden">
+				<h3>Dữ liệu thông báo mời thầu</h3>
+				<blockquote>
+                	<div class="data_detail"></div>
+				<blockquote>
+			</div>
+		</div>
+	</body>
+</html>

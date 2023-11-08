@@ -1,0 +1,5839 @@
+{
+  "page": {
+    "content": [
+      {
+        "id": "95324e6b-7ffa-4471-a198-2ac8e70161c8",
+        "notifyId": "95324e6b-7ffa-4471-a198-2ac8e70161c8",
+        "bidCloseDate": "2023-11-14T14:30:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu xây lắp và lắp đặt thiết bị"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "707",
+            "provName": "Tỉnh Bình Phước",
+            "districtCode": "70707",
+            "districtName": "Huyện Bù Đăng"
+          }
+        ],
+        "notifyNo": "IB2300302973",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302973-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3800513408",
+        "procuringEntityName": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÙ ĐĂNG",
+        "publicDate": "2023-11-07T09:00:00.039",
+        "status": "01",
+        "investorName": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÙ ĐĂNG",
+        "bidOpenDate": "2023-11-14T14:30:00",
+        "planType": "DTPT",
+        "planNo": "PL2300212368",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "dc483928-0350-48be-a6f7-7887dad1cfb4",
+        "createdBy": "vn3800513408-03",
+        "bidPrice": [
+          4611843948
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTCN"
+      },
+      {
+        "id": "cf068e5c-09f4-4ed9-aa55-c29e4ab47f3a",
+        "notifyId": "cf068e5c-09f4-4ed9-aa55-c29e4ab47f3a",
+        "bidCloseDate": "2023-11-10T09:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm vật tư, linh kiện máy văn phòng phục vụ công tác chuyên môn của Bệnh viện"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10113",
+            "districtName": "Quận Cầu Giấy"
+          }
+        ],
+        "notifyNo": "IB2300291901",
+        "notifyVersion": "01",
+        "notifyNoStand": "IB2300291901-01",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0105391248",
+        "procuringEntityName": "Bệnh viện đa khoa Y học cổ truyền Hà Nội",
+        "publicDate": "2023-11-07T08:59:23.844",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300194866",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Mực đổ máy in",
+          "Mực máy in màu Epson L805",
+          "Mực màu Epson L3110, Epson L1110",
+          "Băng mực máy in tem code xét nghiệm",
+          "Giấy in tem code xét nghiệm",
+          "Hộp mực dùng cho máy in laser loại PTH-2612A",
+          "Hộp mực (cartridge) đã có mực in dùng cho máy in laser, loại PTH- 280A/505A",
+          "Hộp mực (cartridge) đã có mực in dùng cho máy in laser, loại PTH-F226A",
+          "Ổ cứng 2.5\" SATA III 240GB",
+          "Ổ cứng gắn trong 1TB",
+          "Dây mạng Cat5",
+          "Chuột máy tính (có dây)",
+          "Phím máy tính (có dây)",
+          "Nguồn máy tính bàn",
+          "Main máy tính H61",
+          "Main máy tính H81",
+          "Main máy tính H110",
+          "Wifi TP-Link 3 Râu",
+          "Bộ chia mạng 16 port 10/100/1000",
+          "Main máy tính H310",
+          "Hộp mực dùng cho máy photo Xerox 3065",
+          "Cụm trống dùng máy photo Xerox 3065 DC IV",
+          "Cụm sấy dùng cho máy photo Xerox 3065",
+          "Hộp mực dùng cho máy photo Ricoh Gestetner M2701"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "40eb27b8-c74e-46c6-ae9a-8efc72429d1c",
+        "createdBy": "vn0105391248",
+        "bidPrice": [
+          449510000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Mực đổ máy in"
+          },
+          {
+            "name": "Mực máy in màu Epson L805"
+          },
+          {
+            "name": "Mực màu Epson L3110, Epson L1110"
+          },
+          {
+            "name": "Băng mực máy in tem code xét nghiệm"
+          },
+          {
+            "name": "Giấy in tem code xét nghiệm"
+          },
+          {
+            "name": "Hộp mực dùng cho máy in laser loại PTH-2612A"
+          },
+          {
+            "name": "Hộp mực (cartridge) đã có mực in dùng cho máy in laser, loại PTH- 280A/505A"
+          },
+          {
+            "name": "Hộp mực (cartridge) đã có mực in dùng cho máy in laser, loại PTH-F226A"
+          },
+          {
+            "name": "Ổ cứng 2.5\" SATA III 240GB"
+          },
+          {
+            "name": "Ổ cứng gắn trong 1TB"
+          },
+          {
+            "name": "Dây mạng Cat5"
+          },
+          {
+            "name": "Chuột máy tính (có dây)"
+          },
+          {
+            "name": "Phím máy tính (có dây)"
+          },
+          {
+            "name": "Nguồn máy tính bàn"
+          },
+          {
+            "name": "Main máy tính H61"
+          },
+          {
+            "name": "Main máy tính H81"
+          },
+          {
+            "name": "Main máy tính H110"
+          },
+          {
+            "name": "Wifi TP-Link 3 Râu"
+          },
+          {
+            "name": "Bộ chia mạng 16 port 10/100/1000"
+          },
+          {
+            "name": "Main máy tính H310"
+          },
+          {
+            "name": "Hộp mực dùng cho máy photo Xerox 3065"
+          },
+          {
+            "name": "Cụm trống dùng máy photo Xerox 3065 DC IV"
+          },
+          {
+            "name": "Cụm sấy dùng cho máy photo Xerox 3065"
+          },
+          {
+            "name": "Hộp mực dùng cho máy photo Ricoh Gestetner M2701"
+          }
+        ]
+      },
+      {
+        "id": "089953cd-e6c1-4a56-8138-72103070cda3",
+        "notifyId": "089953cd-e6c1-4a56-8138-72103070cda3",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm và lắp đặt thiết bị"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "503",
+            "provName": "Tỉnh Quảng Nam",
+            "districtCode": "50311",
+            "districtName": "Huyện Duy Xuyên"
+          }
+        ],
+        "notifyNo": "IB2300302795",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302795-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0402032731",
+        "procuringEntityName": "CÔNG TY TNHH TƯ VẤN ĐẤU THẦU MIỀN TRUNG",
+        "publicDate": "2023-11-07T08:58:03.044",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300186071",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Hệ thống mạng Lan",
+          "Bộ chia tín hiệu thông minh Easy Gigabit 24 cổng",
+          "Thiết Bị Quản Lý Wifi Tập Trung",
+          "Access Point Wi-Fi Gắn Trần",
+          "Access Point Wi-Fi Trong nhà/ Ngoài Trời",
+          "Cable mạng Cat6 UTP",
+          "Dây điện 2x1,5mm",
+          "Nẹp nhựa vuông 30x16mm",
+          "Ổ điện 6 lổ",
+          "Đầu J45 + boot color",
+          "Nhân công và vật tư phụ",
+          "Hệ thống camera an ninh",
+          "Camera IP",
+          "Đầu ghi hình Camera IP",
+          "Ổ cứng 6TB lưu dữ liệu Camera",
+          "Dây cáp mạng Cat6 UTP",
+          "Dây diện",
+          "Bộ chuyển đổi quang điện",
+          "Cáp quang 1fo",
+          "Nhân công và vật tư phụ",
+          "Thiết bị CNTT",
+          "Máy tính để bàn Core i3",
+          "Máy tính xách tay",
+          "Máy in",
+          "Máy Scan"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "ffffd516-0f09-4662-a29e-789d8c5611da",
+        "createdBy": "vn0402032731",
+        "bidPrice": [
+          293851000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Hệ thống mạng Lan"
+          },
+          {
+            "name": "Bộ chia tín hiệu thông minh Easy Gigabit 24 cổng"
+          },
+          {
+            "name": "Thiết Bị Quản Lý Wifi Tập Trung"
+          },
+          {
+            "name": "Access Point Wi-Fi Gắn Trần"
+          },
+          {
+            "name": "Access Point Wi-Fi Trong nhà/ Ngoài Trời"
+          },
+          {
+            "name": "Cable mạng Cat6 UTP"
+          },
+          {
+            "name": "Dây điện 2x1,5mm"
+          },
+          {
+            "name": "Nẹp nhựa vuông 30x16mm"
+          },
+          {
+            "name": "Ổ điện 6 lổ"
+          },
+          {
+            "name": "Đầu J45 + boot color"
+          },
+          {
+            "name": "Nhân công và vật tư phụ"
+          },
+          {
+            "name": "Hệ thống camera an ninh"
+          },
+          {
+            "name": "Camera IP"
+          },
+          {
+            "name": "Đầu ghi hình Camera IP"
+          },
+          {
+            "name": "Ổ cứng 6TB lưu dữ liệu Camera"
+          },
+          {
+            "name": "Dây cáp mạng Cat6 UTP"
+          },
+          {
+            "name": "Dây diện"
+          },
+          {
+            "name": "Bộ chuyển đổi quang điện"
+          },
+          {
+            "name": "Cáp quang 1fo"
+          },
+          {
+            "name": "Nhân công và vật tư phụ"
+          },
+          {
+            "name": "Thiết bị CNTT"
+          },
+          {
+            "name": "Máy tính để bàn Core i3"
+          },
+          {
+            "name": "Máy tính xách tay"
+          },
+          {
+            "name": "Máy in"
+          },
+          {
+            "name": "Máy Scan"
+          }
+        ]
+      },
+      {
+        "id": "4eaa9f3a-a62a-4021-9653-68396cbaf32c",
+        "notifyId": "4eaa9f3a-a62a-4021-9653-68396cbaf32c",
+        "bidCloseDate": "2023-11-10T14:30:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói 01: Dịch vụ đánh giá ngoài kiểm định chất lượng 3 chương trình đào tạo: Chương trình Nghề Dược - Trình độ cao đẳng; Chương trình nghề Kỹ thuật phục hồi chức năng - Trình độ cao đẳng và Chương trình nghề Kỹ thuật xét nghiệm y học - Trình độ cao đẳng"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "713",
+            "provName": "Tỉnh Đồng Nai",
+            "districtCode": "71301",
+            "districtName": "Thành phố Biên Hoà"
+          }
+        ],
+        "notifyNo": "IB2300288572",
+        "notifyVersion": "01",
+        "notifyNoStand": "IB2300288572-01",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0305986789",
+        "procuringEntityName": "CÔNG TY CỔ PHẦN TƯ VẤN ĐẦU TƯ VÀ THIẾT KẾ XÂY DỰNG MINH PHƯƠNG",
+        "publicDate": "2023-11-07T08:57:28.494",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T14:30:00",
+        "planType": "TX",
+        "planNo": "PL2300201296",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Dịch vụ đánh giá ngoài kiểm định chất lượng 3 chương trình đào tạo: Chương trình Nghề Dược – Trình độ cao đẳng; Chương trình nghề Kỹ thuật phục hồi chức năng – Trình độ cao đẳng và Chương trình nghề Kỹ thuật xét nghiệm y học – Trình độ cao đẳng"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "c6195cfb-64cd-4fbe-b6ab-c21688e1ea33",
+        "createdBy": "vn0305986789",
+        "bidPrice": [
+          420000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Dịch vụ đánh giá ngoài kiểm định chất lượng 3 chương trình đào tạo: Chương trình Nghề Dược – Trình độ cao đẳng; Chương trình nghề Kỹ thuật phục hồi chức năng – Trình độ cao đẳng và Chương trình nghề Kỹ thuật xét nghiệm y học – Trình độ cao đẳng"
+          }
+        ]
+      },
+      {
+        "id": "86d54948-6185-4f3d-b946-efc14dd3d591",
+        "notifyId": "86d54948-6185-4f3d-b946-efc14dd3d591",
+        "bidCloseDate": "2023-11-21T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 01: Mở các lớp bồi dưỡng: ngạch chuyên viên và tương đương; ngạch chuyên viên chính và tương đương; đối với lãnh đạo, quản lý cấp phòng và tương đương; nghiệp vụ công tác CCHC; văn hoá công vụ; chương trình kỹ năng phân tích chính sach địa phương; nghiệp vụ lưu trữ viên."
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "813",
+            "provName": "Tỉnh Kiên Giang"
+          }
+        ],
+        "notifyNo": "IB2300302979",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302979-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn1700113360",
+        "procuringEntityName": "CÔNG TY CỔ PHẦN TƯ VẤN XÂY DỰNG KIÊN GIANG",
+        "publicDate": "2023-11-07T08:54:35.938",
+        "status": "01",
+        "bidOpenDate": "2023-11-21T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300211469",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Bồi dưỡng ngạch chuyên viên và tương đương",
+          "Bồi dưỡng ngạch chuyên viên chính và tương đương",
+          "Bồi dưỡng đối với lãnh đạo, quản lý cấp phòng và tương đương",
+          "Bồi dưỡng nghiệp vụ công tác CCHC",
+          "Bồi dưỡng văn hoá công vụ",
+          "Bồi dưỡng chương trình kỹ năng phân tích chính sách địa phương",
+          "Bồi dưỡng nghiệp vụ lưu trữ viên"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b9097424-98ba-4622-8c77-34433b92730c",
+        "createdBy": "vn1700113360-01",
+        "bidPrice": [
+          3500146000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Bồi dưỡng ngạch chuyên viên và tương đương"
+          },
+          {
+            "name": "Bồi dưỡng ngạch chuyên viên chính và tương đương"
+          },
+          {
+            "name": "Bồi dưỡng đối với lãnh đạo, quản lý cấp phòng và tương đương"
+          },
+          {
+            "name": "Bồi dưỡng nghiệp vụ công tác CCHC"
+          },
+          {
+            "name": "Bồi dưỡng văn hoá công vụ"
+          },
+          {
+            "name": "Bồi dưỡng chương trình kỹ năng phân tích chính sách địa phương"
+          },
+          {
+            "name": "Bồi dưỡng nghiệp vụ lưu trữ viên"
+          }
+        ]
+      },
+      {
+        "id": "327b0ca8-409e-4221-8cbb-5a4c389ac575",
+        "notifyId": "327b0ca8-409e-4221-8cbb-5a4c389ac575",
+        "bidCloseDate": "2023-11-14T15:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 02: Thi công xây dựng công trình"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "401",
+            "provName": "Tỉnh Thanh Hoá",
+            "districtCode": "40109",
+            "districtName": "Huyện Quan Hoá"
+          }
+        ],
+        "notifyNo": "IB2300300700",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300700-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000025732",
+        "procuringEntityName": "UBND Xã Hiền Kiệt",
+        "publicDate": "2023-11-07T08:54:25.469",
+        "status": "01",
+        "investorName": "UBND Xã Hiền Kiệt",
+        "bidOpenDate": "2023-11-14T15:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300211101",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "6229e52c-3f18-4c43-aa1c-dbe98409a762",
+        "createdBy": "vnz000025732",
+        "bidPrice": [
+          1295528000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTVH"
+      },
+      {
+        "id": "26f5d6ef-ce3f-4dba-8f5d-8d618db07bbe",
+        "notifyId": "26f5d6ef-ce3f-4dba-8f5d-8d618db07bbe",
+        "bidCloseDate": "2023-11-20T08:00:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Vật tư y tế năm 2023"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "705",
+            "provName": "Tỉnh Ninh Thuận",
+            "districtCode": "70501",
+            "districtName": "TP. Phan Rang-Tháp Chàm"
+          }
+        ],
+        "notifyNo": "IB2300269682",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300269682-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn4500614132",
+        "procuringEntityName": "Trung tâm Kiểm soát bệnh tật tỉnh Ninh Thuận",
+        "publicDate": "2023-11-07T08:53:59.927",
+        "status": "01",
+        "bidOpenDate": "2023-11-20T08:15:00",
+        "planType": "TX",
+        "planNo": "PL2300190297",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Găng tay y tế",
+          "Đầu Col 100-1000ul",
+          "Đầu Col 20-200ul",
+          "Bông thấm nước",
+          "Viên khử khuẩn",
+          "Băng keo cá nhân",
+          "Lọ lấy mẫu \nnước tiểu",
+          "Ống nghiệm lấy máu EDTA",
+          "Que phết tế bào",
+          "Alcol 96°",
+          "Bông không thấm nước",
+          "Lam kính",
+          "Cồn 70°",
+          "Ống nghiệm có nắp \n5ml không hạt",
+          "Que đè lưỡi",
+          "Dung dịch sát khuẩn \nPovidine",
+          "Gel siêu âm",
+          "Giấy y tế",
+          "Giấy điện tim",
+          "Cryotube 2mL",
+          "Kim lấy máu"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "7e068236-1b3a-4727-b136-c15d521e4c9d",
+        "createdBy": "vn4500614132",
+        "bidPrice": [
+          45855000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Găng tay y tế"
+          },
+          {
+            "name": "Đầu Col 100-1000ul"
+          },
+          {
+            "name": "Đầu Col 20-200ul"
+          },
+          {
+            "name": "Bông thấm nước"
+          },
+          {
+            "name": "Viên khử khuẩn"
+          },
+          {
+            "name": "Băng keo cá nhân"
+          },
+          {
+            "name": "Lọ lấy mẫu \nnước tiểu"
+          },
+          {
+            "name": "Ống nghiệm lấy máu EDTA"
+          },
+          {
+            "name": "Que phết tế bào"
+          },
+          {
+            "name": "Alcol 96°"
+          },
+          {
+            "name": "Bông không thấm nước"
+          },
+          {
+            "name": "Lam kính"
+          },
+          {
+            "name": "Cồn 70°"
+          },
+          {
+            "name": "Ống nghiệm có nắp \n5ml không hạt"
+          },
+          {
+            "name": "Que đè lưỡi"
+          },
+          {
+            "name": "Dung dịch sát khuẩn \nPovidine"
+          },
+          {
+            "name": "Gel siêu âm"
+          },
+          {
+            "name": "Giấy y tế"
+          },
+          {
+            "name": "Giấy điện tim"
+          },
+          {
+            "name": "Cryotube 2mL"
+          },
+          {
+            "name": "Kim lấy máu"
+          }
+        ]
+      },
+      {
+        "id": "2e2f00dc-4370-46d5-9e8f-01d25c8d5576",
+        "notifyId": "2e2f00dc-4370-46d5-9e8f-01d25c8d5576",
+        "bidCloseDate": "2023-11-20T10:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu: “Trang bị phương tiện bảo vệ cá nhân năm 2024”."
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70107",
+            "districtName": "Quận 4"
+          }
+        ],
+        "notifyNo": "IB2300303008",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300303008-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000022010",
+        "procuringEntityName": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC THÀNH PHỐ HỒ CHÍ MINH TNHH - CÔNG TY ĐIỆN LỰC TÂN THUẬN",
+        "publicDate": "2023-11-07T08:51:11.833",
+        "status": "01",
+        "bidOpenDate": "2023-11-20T10:00:00",
+        "planType": "TX",
+        "planNo": "PL2300212723",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Mũ vải",
+          "Bao tay vải",
+          "Giầy vải",
+          "Giầy da",
+          "Khẩu trang",
+          "Áo mưa bộ",
+          "Áo mưa cánh dơi",
+          "Áo mưa tròng đầu",
+          "Xà phòng"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "c96701f3-07ea-47ef-9507-82018265dc45",
+        "createdBy": "vnz000022010",
+        "bidPrice": [
+          122112925
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Mũ vải"
+          },
+          {
+            "name": "Bao tay vải"
+          },
+          {
+            "name": "Giầy vải"
+          },
+          {
+            "name": "Giầy da"
+          },
+          {
+            "name": "Khẩu trang"
+          },
+          {
+            "name": "Áo mưa bộ"
+          },
+          {
+            "name": "Áo mưa cánh dơi"
+          },
+          {
+            "name": "Áo mưa tròng đầu"
+          },
+          {
+            "name": "Xà phòng"
+          }
+        ]
+      },
+      {
+        "id": "7c025863-7cc5-4a5c-9538-bdf5560ca216",
+        "notifyId": "7c025863-7cc5-4a5c-9538-bdf5560ca216",
+        "bidCloseDate": "2023-11-14T15:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 03: Thi công xây dựng"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "401",
+            "provName": "Tỉnh Thanh Hoá",
+            "districtCode": "40125",
+            "districtName": "Huyện Như Xuân"
+          }
+        ],
+        "notifyNo": "IB2300292769",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300292769-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000025579",
+        "procuringEntityName": "UBND Thị Trấn Yên Cát",
+        "publicDate": "2023-11-07T08:51:02.7",
+        "status": "01",
+        "investorName": "UBND Thị Trấn Yên Cát",
+        "bidOpenDate": "2023-11-14T15:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300205774",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "acf05514-3720-40d8-98cc-a7879306d1f7",
+        "createdBy": "vnz000025579",
+        "bidPrice": [
+          2243795000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "KHAC"
+      },
+      {
+        "id": "ff7788ee-eb3a-4c4f-b62f-1089d834292f",
+        "notifyId": "ff7788ee-eb3a-4c4f-b62f-1089d834292f",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu 3: Kiểm định hầm Tân Tạo"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70134",
+            "districtName": "Quận Bình Tân"
+          }
+        ],
+        "notifyNo": "IB2300303042",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300303042-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0314452776",
+        "procuringEntityName": "CÔNG TY TNHH THIẾT KẾ GIÁM SÁT THI CÔNG XÂY DỰNG AN THỊNH",
+        "publicDate": "2023-11-07T08:50:35.974",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300188637",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "KIỂM ĐỊNH HẦM TÂN TẠO",
+          "Thu thập, khảo sát hiện trạng công trình",
+          "Công tác nội nghiệp (đánh giá hiện trạng công trình)",
+          "Kiểm tra cường độ bê tông của cấu kiện bê tông và bê tông cốt thép tại hiện trường, Chỉ tiêu cường độ bê tông bằng súng thử loại bật nảy cho một cấu kiện riêng rẽ bằng BTCT",
+          "Kiểm tra cường độ bê tông của cấu kiện bê tông và bê tông cốt thép tại hiện trường, Chỉ tiêu cường độ bê tông bằng máy siêu âm cho một cấu kiện bằng BTCT",
+          "Xác định độ võng tĩnh của dầm",
+          "Siêu âm bê tông xác định vận tốc truyền xung siêu âm từ đó xác định chiều sâu vết nứt",
+          "Công tác đo ứng suất bản nóc hầm",
+          "Công tác đo ứng suất trụ",
+          "Xác định độ võng do hoạt tải đặt tĩnh của dầm",
+          "Công tác đo dao động kết cấu bản",
+          "Công tác đo dao động và chuyển vị mố, trụ cầu",
+          "Quan trắc biến dạng ứng suất bản nóc, trụ (quan trắc 1 điểm 24h/ ngày x 7 ngày)",
+          "Khung giáo 1,5m (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)",
+          "Giằng chéo chống gãy (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)",
+          "Mâm giáo có móc an toàn (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)",
+          "Lắp dựng kết cấu thép hệ khung dàn, sàn đạo trên cạn",
+          "Tháo dỡ kết cấu thép hệ khung dàn, sàn đạo trên cạn",
+          "Xe ô tô thử tải (ô tô 22 tấn)",
+          "Vận chuyển đá dăm các loại bằng ô tô tự đổ 22T, cự ly vận chuyển <= 1km",
+          "Vận chuyển đá dăm các loại bằng ô tô tự đổ 22T, cự ly vận chuyển <= 10km (vận chuyển tiếp 9km)",
+          "Sản xuất, lắp đặt biển báo chữ nhật, bảng thông tin đơn vị thi công (KT 600x400) (5%/1 lần sử dụng)",
+          "Sản xuất, lắp đặt biển báo tròn D700 (5%/1 lần sử dụng)",
+          "Sản xuất, lắp đặt biển báo tam giác A700 (5%/1 lần sử dụng)",
+          "Gia công hàng rào",
+          "Sơn sắt thép bằng sơn các loại, 1 nước lót, 2 nước phủ",
+          "Đèn chớp xoay cảnh báo ban đêm",
+          "Nhân công ĐBGT",
+          "Chi phí lập báo cáo kiểm định"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "a2e2e8c2-a0ec-4c51-82dd-43888e1ae9ca",
+        "createdBy": "vn0314452776",
+        "bidPrice": [
+          492005768
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "KIỂM ĐỊNH HẦM TÂN TẠO"
+          },
+          {
+            "name": "Thu thập, khảo sát hiện trạng công trình"
+          },
+          {
+            "name": "Công tác nội nghiệp (đánh giá hiện trạng công trình)"
+          },
+          {
+            "name": "Kiểm tra cường độ bê tông của cấu kiện bê tông và bê tông cốt thép tại hiện trường, Chỉ tiêu cường độ bê tông bằng súng thử loại bật nảy cho một cấu kiện riêng rẽ bằng BTCT"
+          },
+          {
+            "name": "Kiểm tra cường độ bê tông của cấu kiện bê tông và bê tông cốt thép tại hiện trường, Chỉ tiêu cường độ bê tông bằng máy siêu âm cho một cấu kiện bằng BTCT"
+          },
+          {
+            "name": "Xác định độ võng tĩnh của dầm"
+          },
+          {
+            "name": "Siêu âm bê tông xác định vận tốc truyền xung siêu âm từ đó xác định chiều sâu vết nứt"
+          },
+          {
+            "name": "Công tác đo ứng suất bản nóc hầm"
+          },
+          {
+            "name": "Công tác đo ứng suất trụ"
+          },
+          {
+            "name": "Xác định độ võng do hoạt tải đặt tĩnh của dầm"
+          },
+          {
+            "name": "Công tác đo dao động kết cấu bản"
+          },
+          {
+            "name": "Công tác đo dao động và chuyển vị mố, trụ cầu"
+          },
+          {
+            "name": "Quan trắc biến dạng ứng suất bản nóc, trụ (quan trắc 1 điểm 24h/ ngày x 7 ngày)"
+          },
+          {
+            "name": "Khung giáo 1,5m (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)"
+          },
+          {
+            "name": "Giằng chéo chống gãy (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)"
+          },
+          {
+            "name": "Mâm giáo có móc an toàn (KH 1,5%/1tháng *(5/30)ngày + 5%/1lần LD,TD* 3 lần LD,TD)"
+          },
+          {
+            "name": "Lắp dựng kết cấu thép hệ khung dàn, sàn đạo trên cạn"
+          },
+          {
+            "name": "Tháo dỡ kết cấu thép hệ khung dàn, sàn đạo trên cạn"
+          },
+          {
+            "name": "Xe ô tô thử tải (ô tô 22 tấn)"
+          },
+          {
+            "name": "Vận chuyển đá dăm các loại bằng ô tô tự đổ 22T, cự ly vận chuyển <= 1km"
+          },
+          {
+            "name": "Vận chuyển đá dăm các loại bằng ô tô tự đổ 22T, cự ly vận chuyển <= 10km (vận chuyển tiếp 9km)"
+          },
+          {
+            "name": "Sản xuất, lắp đặt biển báo chữ nhật, bảng thông tin đơn vị thi công (KT 600x400) (5%/1 lần sử dụng)"
+          },
+          {
+            "name": "Sản xuất, lắp đặt biển báo tròn D700 (5%/1 lần sử dụng)"
+          },
+          {
+            "name": "Sản xuất, lắp đặt biển báo tam giác A700 (5%/1 lần sử dụng)"
+          },
+          {
+            "name": "Gia công hàng rào"
+          },
+          {
+            "name": "Sơn sắt thép bằng sơn các loại, 1 nước lót, 2 nước phủ"
+          },
+          {
+            "name": "Đèn chớp xoay cảnh báo ban đêm"
+          },
+          {
+            "name": "Nhân công ĐBGT"
+          },
+          {
+            "name": "Chi phí lập báo cáo kiểm định"
+          }
+        ]
+      },
+      {
+        "id": "ca2efc39-f024-4eda-870e-8b1dc2ed036a",
+        "notifyId": "ca2efc39-f024-4eda-870e-8b1dc2ed036a",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "14 danh mục thuốc Generic"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "411",
+            "provName": "Tỉnh Thừa Thiên Huế",
+            "districtCode": "41101",
+            "districtName": "Thành phố Huế"
+          }
+        ],
+        "notifyNo": "IB2300299963",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300299963-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3300269409",
+        "procuringEntityName": "Bệnh viện đa khoa Trung ương Huế",
+        "publicDate": "2023-11-07T08:49:55.184",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300207325",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Caspofungin",
+          "Caspofungin",
+          "Magnesi aspartat anhydrat + Kali aspartat anhydrat",
+          "Magnesi aspartat anhydrat + Kali aspartat anhydrat",
+          "Methyl prednisolon",
+          "Methyl prednisolon",
+          "Mirtazapin",
+          "Mirtazapin",
+          "Somatropin",
+          "Somatropin",
+          "Spironolacton",
+          "Spironolacton",
+          "Caspofungin (dưới dạng Caspofungin acetate)",
+          "Caspofungin (dưới dạng Caspofungin acetate)",
+          "Cefpirom",
+          "Cefpirom",
+          "Acid amin* (dành cho bệnh nhân suy thận)",
+          "Acid amin* (dành cho bệnh nhân suy thận)",
+          "Methyl prednisolon",
+          "Methyl prednisolon",
+          "Natri clorid",
+          "Natri clorid",
+          "Tramadol hydroclorid",
+          "Tramadol hydroclorid",
+          "Ringer lactat",
+          "Ringer lactat",
+          "Hydroxychloroquine sulfate",
+          "Hydroxychloroquine sulfate"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "d5462d5e-933d-4c72-b8b7-95ae535baf6b",
+        "createdBy": "vn3300269409",
+        "bidPrice": [
+          9054732000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Caspofungin"
+          },
+          {
+            "name": "Caspofungin"
+          },
+          {
+            "name": "Magnesi aspartat anhydrat + Kali aspartat anhydrat"
+          },
+          {
+            "name": "Magnesi aspartat anhydrat + Kali aspartat anhydrat"
+          },
+          {
+            "name": "Methyl prednisolon"
+          },
+          {
+            "name": "Methyl prednisolon"
+          },
+          {
+            "name": "Mirtazapin"
+          },
+          {
+            "name": "Mirtazapin"
+          },
+          {
+            "name": "Somatropin"
+          },
+          {
+            "name": "Somatropin"
+          },
+          {
+            "name": "Spironolacton"
+          },
+          {
+            "name": "Spironolacton"
+          },
+          {
+            "name": "Caspofungin (dưới dạng Caspofungin acetate)"
+          },
+          {
+            "name": "Caspofungin (dưới dạng Caspofungin acetate)"
+          },
+          {
+            "name": "Cefpirom"
+          },
+          {
+            "name": "Cefpirom"
+          },
+          {
+            "name": "Acid amin* (dành cho bệnh nhân suy thận)"
+          },
+          {
+            "name": "Acid amin* (dành cho bệnh nhân suy thận)"
+          },
+          {
+            "name": "Methyl prednisolon"
+          },
+          {
+            "name": "Methyl prednisolon"
+          },
+          {
+            "name": "Natri clorid"
+          },
+          {
+            "name": "Natri clorid"
+          },
+          {
+            "name": "Tramadol hydroclorid"
+          },
+          {
+            "name": "Tramadol hydroclorid"
+          },
+          {
+            "name": "Ringer lactat"
+          },
+          {
+            "name": "Ringer lactat"
+          },
+          {
+            "name": "Hydroxychloroquine sulfate"
+          },
+          {
+            "name": "Hydroxychloroquine sulfate"
+          }
+        ]
+      },
+      {
+        "id": "1b7b75c6-5e69-4085-bae9-7a4d81776a2f",
+        "notifyId": "1b7b75c6-5e69-4085-bae9-7a4d81776a2f",
+        "bidCloseDate": "2023-11-14T15:00:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu TS03-2023: Cung cấp dịch vụ bảo dưỡng hệ thống Điều hòa không khí và Thông gió - Trụ sở QLVH các NMTĐ thuộc EVNGENCO2 tại Đà Nẵng"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "501",
+            "provName": "Thành phố Đà Nẵng",
+            "districtCode": "50115",
+            "districtName": "Quận Cẩm Lệ"
+          }
+        ],
+        "notifyNo": "IB2300291173",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300291173-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000013410",
+        "procuringEntityName": "CÔNG TY THỦY ĐIỆN SÔNG BUNG - CHI NHÁNH TỔNG CÔNG TY PHÁT ĐIỆN 2 - CÔNG TY CỔ PHẦN  ",
+        "publicDate": "2023-11-07T08:48:32.91",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T15:00:00",
+        "planType": "TX",
+        "planNo": "PL2300151668",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Hệ thống Điều hòa không khí. Nội dung chi tiết, tham chiếu Chương III. Yêu cầu về kỹ thuật của E-HSMT",
+          "Vệ sinh bảo dưỡng nạp gas điều hòa cục bộ loại âm trần 4 hướng thổi, CS 30.000-->48.000 BTU Loại LG INVERTER",
+          "Hệ thống thông gió. Nội dung chi tiết, tham chiếu Chương III. Yêu cầu về kỹ thuật của E-HSMT",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí thải tầng hầm loại 8000m3/h.200pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khói hành lang loại 7070m3/h.250pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt cấp gió tươi từ tầng 3 đến tầng 12 loại 2600m3/h 200pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút gió thải gắn tường tầng hầm và các tầng 2 loại 185m3/h và 280m3/h 45pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khói hành lang loại 2030m3/h.200pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt cấp gió tươi loại 1000m3/h 200pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí thải WC toàn bộ tòa nhà loại 760m3/h.200pa",
+          "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí tăng áp hệ thống cầu thang tại tầng mái loại 30.548m3/h 382pa"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "033c7f00-60a7-40c2-801e-7ec1f4d14c16",
+        "createdBy": "vnz000013410",
+        "bidPrice": [
+          83730240
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Hệ thống Điều hòa không khí. Nội dung chi tiết, tham chiếu Chương III. Yêu cầu về kỹ thuật của E-HSMT"
+          },
+          {
+            "name": "Vệ sinh bảo dưỡng nạp gas điều hòa cục bộ loại âm trần 4 hướng thổi, CS 30.000-->48.000 BTU Loại LG INVERTER"
+          },
+          {
+            "name": "Hệ thống thông gió. Nội dung chi tiết, tham chiếu Chương III. Yêu cầu về kỹ thuật của E-HSMT"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí thải tầng hầm loại 8000m3/h.200pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khói hành lang loại 7070m3/h.250pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt cấp gió tươi từ tầng 3 đến tầng 12 loại 2600m3/h 200pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút gió thải gắn tường tầng hầm và các tầng 2 loại 185m3/h và 280m3/h 45pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khói hành lang loại 2030m3/h.200pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt cấp gió tươi loại 1000m3/h 200pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí thải WC toàn bộ tòa nhà loại 760m3/h.200pa"
+          },
+          {
+            "name": "Vệ sinh, hút bụi, vô dầu mỡ động cơ quạt hút khí tăng áp hệ thống cầu thang tại tầng mái loại 30.548m3/h 382pa"
+          }
+        ]
+      },
+      {
+        "id": "82f67181-f80b-415c-a576-f38dd5e76517",
+        "notifyId": "82f67181-f80b-415c-a576-f38dd5e76517",
+        "bidCloseDate": "2023-11-10T15:15:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "LẮP ĐẶT HỆ THỐNG ĐƯỜNG ỐNG ĐỂ ĐẤU NỐI NƯỚC THẢI VÀO HỆ THỐNG THU GOM XỬ LÝ NƯỚC THẢI KHU CÔNG NGHIỆP NINH THỦY TẠI TRẠM PHÂN PHỐI NINH THỦY"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "511",
+            "provName": "Tỉnh Khánh Hoà",
+            "districtCode": "51105",
+            "districtName": "Thị xã Ninh Hoà"
+          }
+        ],
+        "notifyNo": "IB2300287366",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300287366-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000011806",
+        "procuringEntityName": "CHI NHÁNH CÔNG TY XI MĂNG NGHI SƠN TẠI THÀNH PHỐ HỒ CHÍ MINH ",
+        "publicDate": "2023-11-07T08:48:24.99",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T16:15:00",
+        "planType": "TX",
+        "planNo": "PL2300199459",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "fa945d73-c4c3-400d-a95d-cb2f6696b55d",
+        "createdBy": "vnz000011806",
+        "bidPrice": [
+          370561000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [],
+        "workType": "CTTN"
+      },
+      {
+        "id": "3788b875-ade9-4a4d-af3e-54fe4b0aee49",
+        "notifyId": "3788b875-ade9-4a4d-af3e-54fe4b0aee49",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 4: Mua sắm Kim luồn, kim gây tê tủy sống, nút chặn kim luồn"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "717",
+            "provName": "Tỉnh Bà Rịa - Vũng Tàu",
+            "districtCode": "71703",
+            "districtName": "Thành Phố Bà Rịa"
+          }
+        ],
+        "notifyNo": "IB2300303024",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300303024-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3500287437",
+        "procuringEntityName": "Bệnh Viện Bà Rịa",
+        "publicDate": "2023-11-07T08:46:36.727",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300196871",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Kim chọc dò tủy sống các cỡ",
+          "Kim chọc dò tủy sống các cỡ",
+          "Kim luồn có cánh, có cổng,  chất liệu PUR các cỡ",
+          "Kim luồn có cánh, có cổng,  chất liệu PTFE các cỡ",
+          "Kim luồn an toàn có cánh, có cổng,  chất liệu PTFE các cỡ",
+          "Kim luồn an toàn có cánh, không cổng,  chất liệu PTFE cỡ 24G",
+          "Nút chặn kim luồn"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "656c74d5-2066-4407-976d-515de495a687",
+        "createdBy": "vn3500287437",
+        "bidPrice": [
+          1736210024
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Kim chọc dò tủy sống các cỡ"
+          },
+          {
+            "name": "Kim chọc dò tủy sống các cỡ"
+          },
+          {
+            "name": "Kim luồn có cánh, có cổng,  chất liệu PUR các cỡ"
+          },
+          {
+            "name": "Kim luồn có cánh, có cổng,  chất liệu PTFE các cỡ"
+          },
+          {
+            "name": "Kim luồn an toàn có cánh, có cổng,  chất liệu PTFE các cỡ"
+          },
+          {
+            "name": "Kim luồn an toàn có cánh, không cổng,  chất liệu PTFE cỡ 24G"
+          },
+          {
+            "name": "Nút chặn kim luồn"
+          }
+        ]
+      },
+      {
+        "id": "1b675098-75d1-4872-80c4-8978e0e30a9d",
+        "notifyId": "1b675098-75d1-4872-80c4-8978e0e30a9d",
+        "bidCloseDate": "2023-11-20T14:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu: Mua sắm TU, TI thay thế tại TBA 110kV Thống Nhất, Bàu Xéo, Đồng Nai 2023"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "713",
+            "provName": "Tỉnh Đồng Nai"
+          }
+        ],
+        "notifyNo": "IB2300293257",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300293257-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3600432744",
+        "procuringEntityName": "CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI ",
+        "publicDate": "2023-11-07T08:45:31.925",
+        "status": "01",
+        "bidOpenDate": "2023-11-20T14:00:00",
+        "planType": "TX",
+        "planNo": "PL2300203202",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Biến điện áp (TU) 110kV (bao gồm Chi phí thử nghiệm Biến điện áp (TU) 110kV) (Nhà thầu chào thuế GTGT 10%)",
+          "Biến dòng điện (TI) 110kV (bao gồm Chi phí thử nghiệm Biến dòng điện (TI) 110kV) (Nhà thầu chào thuế GTGT 10%)"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "a7ae5cf6-6929-4df3-9a87-18258eee3fef",
+        "createdBy": "vn3600432744-05",
+        "bidPrice": [
+          1448842164
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Biến điện áp (TU) 110kV (bao gồm Chi phí thử nghiệm Biến điện áp (TU) 110kV) (Nhà thầu chào thuế GTGT 10%)"
+          },
+          {
+            "name": "Biến dòng điện (TI) 110kV (bao gồm Chi phí thử nghiệm Biến dòng điện (TI) 110kV) (Nhà thầu chào thuế GTGT 10%)"
+          }
+        ]
+      },
+      {
+        "id": "f267fce7-33d6-4e3d-835d-a4fcd061ed5f",
+        "notifyId": "f267fce7-33d6-4e3d-835d-a4fcd061ed5f",
+        "bidCloseDate": "2023-11-14T09:45:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 01/Toàn bộ phần xây lắp công trình"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "403",
+            "provName": "Tỉnh Nghệ An",
+            "districtCode": "40321",
+            "districtName": "Huyện Con Cuông"
+          }
+        ],
+        "notifyNo": "IB2300295231",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300295231-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000013306",
+        "procuringEntityName": "Ban quản lý các dự án đầu tư xây dựng huyện Con Cuông",
+        "publicDate": "2023-11-07T08:43:52.918",
+        "status": "01",
+        "investorName": "ỦY BAN NHÂN DÂN HUYỆN CON CUÔNG",
+        "bidOpenDate": "2023-11-14T09:45:00",
+        "planType": "DTPT",
+        "planNo": "PL2300207540",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "fd14ba34-bc5b-441e-9d77-15797332b22b",
+        "createdBy": "vnz000013306",
+        "bidPrice": [
+          1738376000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "KHAC"
+      },
+      {
+        "id": "ecb193ca-d4c7-4c9c-a55a-0e3dc7e0c94d",
+        "notifyId": "ecb193ca-d4c7-4c9c-a55a-0e3dc7e0c94d",
+        "bidCloseDate": "2023-11-27T10:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "Tư vấn lập báo cáo KTKT"
+        ],
+        "investField": [
+          "TV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "219",
+            "provName": "Tỉnh Vĩnh Phúc",
+            "districtCode": "21909",
+            "districtName": "Huyện Yên Lạc"
+          }
+        ],
+        "notifyNo": "IB2300294338",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300294338-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn2500224587",
+        "procuringEntityName": "Sở Giáo dục và Đào tạo tỉnh Vĩnh Phúc",
+        "publicDate": "2023-11-07T08:43:29.837",
+        "status": "01",
+        "bidOpenDate": "2023-11-27T10:00:00",
+        "planType": "TX",
+        "planNo": "PL2300204487",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Tư vấn lập báo cáo KTKT"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "6e1c5c95-4466-406f-bb1b-aeb146f2f0b2",
+        "createdBy": "vn2500224587",
+        "bidPrice": [
+          181440000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Tư vấn lập báo cáo KTKT"
+          }
+        ]
+      },
+      {
+        "id": "77b69912-378a-497c-b21d-b23f3177182c",
+        "notifyId": "77b69912-378a-497c-b21d-b23f3177182c",
+        "bidCloseDate": "2023-11-14T08:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 01: Toàn bộ phần xây lắp công trình"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "403",
+            "provName": "Tỉnh Nghệ An"
+          }
+        ],
+        "notifyNo": "IB2300301266",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300301266-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn2902019605",
+        "procuringEntityName": "Trung tâm kiểm soát Bệnh tật tỉnh Nghệ an",
+        "publicDate": "2023-11-07T08:43:11.971",
+        "status": "01",
+        "investorName": "Trung tâm kiểm soát Bệnh tật tỉnh Nghệ an",
+        "bidOpenDate": "2023-11-14T08:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300200615",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "a5249c15-a31f-4115-b8f1-9c0260ca2742",
+        "createdBy": "vn2902019605",
+        "bidPrice": [
+          2083455000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "TTT"
+      },
+      {
+        "id": "47fe6c06-a318-45c4-ba16-9ea09a6d9abc",
+        "notifyId": "47fe6c06-a318-45c4-ba16-9ea09a6d9abc",
+        "bidCloseDate": "2023-11-10T07:30:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua vật tư huấn luyện gia công cắt gọt kim loại"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "103",
+            "provName": "Thành phố Hải Phòng",
+            "districtCode": "10304",
+            "districtName": "Quận Hải An"
+          }
+        ],
+        "notifyNo": "IB2300302912",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302912-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000016302",
+        "procuringEntityName": "Bộ Tư lệnh Vùng Cảnh sát biển 1",
+        "publicDate": "2023-11-07T08:42:46.276",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T07:30:00",
+        "planType": "TX",
+        "planNo": "PL2300209815",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Thép tiện C45 Ø 25",
+          "Thép tiện C45 Ø 30",
+          "Thép tiện C45 Ø 100",
+          "Thép tấm C45",
+          "Thép phay C45",
+          "Thép bào C45",
+          "Dầu bôi trơn",
+          "Giẻ lau",
+          "Mũ bảo hộ điện tử",
+          "Mũi khoan Ø 6",
+          "Mũi khoan Ø 12",
+          "Mũi khoan Ø 18",
+          "Mũi khoan Ø 21",
+          "Cán dao tiện ngoài",
+          "Cán dao tiện cắt lỗ trong",
+          "Cán dao tiện cắt ren",
+          "Chíp dao tiện ngoài",
+          "Chíp dao tiện ren",
+          "Chíp dao cắt đứt",
+          "Dao phay ngón Ø 10",
+          "Dao phay ngón Ø 12",
+          "Dao phay ngón Ø 14",
+          "Dao phay ngón Ø 16",
+          "Dao bào phẳng",
+          "Dao bào góc"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "332032b4-1999-4599-9679-d6f321f6196c",
+        "createdBy": "vnz000016302",
+        "bidPrice": [
+          199980000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Thép tiện C45 Ø 25"
+          },
+          {
+            "name": "Thép tiện C45 Ø 30"
+          },
+          {
+            "name": "Thép tiện C45 Ø 100"
+          },
+          {
+            "name": "Thép tấm C45"
+          },
+          {
+            "name": "Thép phay C45"
+          },
+          {
+            "name": "Thép bào C45"
+          },
+          {
+            "name": "Dầu bôi trơn"
+          },
+          {
+            "name": "Giẻ lau"
+          },
+          {
+            "name": "Mũ bảo hộ điện tử"
+          },
+          {
+            "name": "Mũi khoan Ø 6"
+          },
+          {
+            "name": "Mũi khoan Ø 12"
+          },
+          {
+            "name": "Mũi khoan Ø 18"
+          },
+          {
+            "name": "Mũi khoan Ø 21"
+          },
+          {
+            "name": "Cán dao tiện ngoài"
+          },
+          {
+            "name": "Cán dao tiện cắt lỗ trong"
+          },
+          {
+            "name": "Cán dao tiện cắt ren"
+          },
+          {
+            "name": "Chíp dao tiện ngoài"
+          },
+          {
+            "name": "Chíp dao tiện ren"
+          },
+          {
+            "name": "Chíp dao cắt đứt"
+          },
+          {
+            "name": "Dao phay ngón Ø 10"
+          },
+          {
+            "name": "Dao phay ngón Ø 12"
+          },
+          {
+            "name": "Dao phay ngón Ø 14"
+          },
+          {
+            "name": "Dao phay ngón Ø 16"
+          },
+          {
+            "name": "Dao bào phẳng"
+          },
+          {
+            "name": "Dao bào góc"
+          }
+        ]
+      },
+      {
+        "id": "ccbde0ac-7cab-4f31-a2e8-49614137032f",
+        "notifyId": "ccbde0ac-7cab-4f31-a2e8-49614137032f",
+        "bidCloseDate": "2023-11-17T15:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 02: Thi công xây dựng"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "401",
+            "provName": "Tỉnh Thanh Hoá",
+            "districtCode": "40133",
+            "districtName": "Huyện Nga Sơn"
+          }
+        ],
+        "notifyNo": "IB2300300904",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300904-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn2801467872",
+        "procuringEntityName": "Ủy ban nhân dân xã Nga Điền",
+        "publicDate": "2023-11-07T08:41:45.063",
+        "status": "01",
+        "investorName": "Ủy ban nhân dân xã Nga Điền",
+        "bidOpenDate": "2023-11-17T15:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300211214",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "7e7a7a83-4b23-44f7-b162-9d894c514012",
+        "createdBy": "vn2801467872",
+        "bidPrice": [
+          2542618000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTDB"
+      },
+      {
+        "id": "cc329002-e1f8-4011-be0e-a8dfc4860dd4",
+        "notifyId": "cc329002-e1f8-4011-be0e-a8dfc4860dd4",
+        "bidCloseDate": "2023-11-17T10:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 8: Phim X-Quang phù hợp với Hệ thống xử lý hình ảnh X-Quang số hóa CR- Fujifilm hoặc tương đương"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "606",
+            "provName": "Tỉnh Đăk Nông",
+            "districtCode": "60615",
+            "districtName": "Huyện Đắk Glong"
+          }
+        ],
+        "notifyNo": "IB2300302965",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302965-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn6400396389",
+        "procuringEntityName": "Trung tâm Y tế huyện Đắk Glong",
+        "publicDate": "2023-11-07T08:41:04.359",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T10:00:00",
+        "planType": "TX",
+        "planNo": "PL2300198589",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Phim X Quang DI-HT 20X25cm"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "c0d84cbb-eea3-452a-b75a-ba0464bcbb30",
+        "createdBy": "vn6400396389",
+        "bidPrice": [
+          480000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Phim X Quang DI-HT 20X25cm"
+          }
+        ]
+      },
+      {
+        "id": "f48cf6a4-c079-4a55-a946-5efdd6216385",
+        "notifyId": "f48cf6a4-c079-4a55-a946-5efdd6216385",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 01/SNMT/2023: Kiểm định đầu đo định kỳ"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "303",
+            "provName": "Tỉnh Sơn La",
+            "districtCode": "30301",
+            "districtName": "Thành phố Sơn La"
+          }
+        ],
+        "notifyNo": "IB2300302242",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302242-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000006829",
+        "procuringEntityName": "Ban quản lý các dự án ODA tỉnh Sơn La",
+        "publicDate": "2023-11-07T08:40:10.488",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:05:00",
+        "planType": "TX",
+        "planNo": "PL2300203110",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Đ.giá bên ngoài (K.tra t.bị q.trắc tự động; K.tra t.bị thu thập, lưu giữ và truyền nhận; K.tra dd chuẩn; K.tra t.bị lấy mẫu t.động; K.tra h.thống camera; K.tra nhà trạm, bơm lấy mẫu và ống dẫn nước; t.bị b.cháy, b.khói, chống sét t.tiếp và lan truyền; K.tra t.bị phụ khác; K.tra t.bị đo n.độ, đ.ẩm)",
+          "Đ.giá chất lượng HT, đ.giá đặc tính k.thuật (Đ.giá vị trí quan trắc; Đ.giá đặc tính K.thuật t.bị; Đ.giá dung dịch chuẩn; Đ.giá thiết bị lấy mẫu và lưu mẫu tự động; Đ.giá camera; Đ.giá nhận, lưu giữ và quản lý dữ liệu; Đ.giá về định đạng tệp dữ liệu; Đ.giá bảo mật và tính toán vệ của dữ liệu)",
+          "pH",
+          "Nhiệt độ",
+          "COD",
+          "TSS",
+          "DO",
+          "Amoni",
+          "Lưu lượng",
+          "Lập báo cáo kiểm tra chất lượng hệ thông trạm quan trắc",
+          "Phương tiện đo pH",
+          "Phương tiện đo Nhiệt độ",
+          "Phương tiện đo COD",
+          "Phương tiện đo TSS",
+          "Phương tiện đo DO",
+          "Phương tiện đo Amoni",
+          "Phương tiện đo lưu lượng đầu vào",
+          "Phương tiện đo lưu lượng kênh hở đầu ra"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "11c3dc3b-909e-4deb-a0a0-b7a153b40e89",
+        "createdBy": "vnz000006829",
+        "bidPrice": [
+          127308000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Đ.giá bên ngoài (K.tra t.bị q.trắc tự động; K.tra t.bị thu thập, lưu giữ và truyền nhận; K.tra dd chuẩn; K.tra t.bị lấy mẫu t.động; K.tra h.thống camera; K.tra nhà trạm, bơm lấy mẫu và ống dẫn nước; t.bị b.cháy, b.khói, chống sét t.tiếp và lan truyền; K.tra t.bị phụ khác; K.tra t.bị đo n.độ, đ.ẩm)"
+          },
+          {
+            "name": "Đ.giá chất lượng HT, đ.giá đặc tính k.thuật (Đ.giá vị trí quan trắc; Đ.giá đặc tính K.thuật t.bị; Đ.giá dung dịch chuẩn; Đ.giá thiết bị lấy mẫu và lưu mẫu tự động; Đ.giá camera; Đ.giá nhận, lưu giữ và quản lý dữ liệu; Đ.giá về định đạng tệp dữ liệu; Đ.giá bảo mật và tính toán vệ của dữ liệu)"
+          },
+          {
+            "name": "pH"
+          },
+          {
+            "name": "Nhiệt độ"
+          },
+          {
+            "name": "COD"
+          },
+          {
+            "name": "TSS"
+          },
+          {
+            "name": "DO"
+          },
+          {
+            "name": "Amoni"
+          },
+          {
+            "name": "Lưu lượng"
+          },
+          {
+            "name": "Lập báo cáo kiểm tra chất lượng hệ thông trạm quan trắc"
+          },
+          {
+            "name": "Phương tiện đo pH"
+          },
+          {
+            "name": "Phương tiện đo Nhiệt độ"
+          },
+          {
+            "name": "Phương tiện đo COD"
+          },
+          {
+            "name": "Phương tiện đo TSS"
+          },
+          {
+            "name": "Phương tiện đo DO"
+          },
+          {
+            "name": "Phương tiện đo Amoni"
+          },
+          {
+            "name": "Phương tiện đo lưu lượng đầu vào"
+          },
+          {
+            "name": "Phương tiện đo lưu lượng kênh hở đầu ra"
+          }
+        ]
+      },
+      {
+        "id": "b522bd5e-aad6-4359-88a8-391ab71cd132",
+        "notifyId": "b522bd5e-aad6-4359-88a8-391ab71cd132",
+        "bidCloseDate": "2023-11-30T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "23DCSX-G45: Cung cấp thiết bị vệ sinh hotline năm 2024"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "603",
+            "provName": "Tỉnh Gia Lai"
+          },
+          {
+            "provCode": "605",
+            "provName": "Tỉnh Đăk Lăk"
+          }
+        ],
+        "notifyNo": "IB2300294539",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300294539-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0400101394",
+        "procuringEntityName": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG",
+        "publicDate": "2023-11-07T08:39:59.034",
+        "status": "01",
+        "investorName": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG",
+        "bidOpenDate": "2023-11-30T09:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300197724",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Thiết bị vệ sinh hotline"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b7f86368-9187-43a7-b94a-eab58df1f878",
+        "createdBy": "vn0400101394-10",
+        "bidPrice": [
+          2149999999
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Thiết bị vệ sinh hotline"
+          }
+        ]
+      },
+      {
+        "id": "7bb2bc09-b362-43ea-8b61-4912c3c949ac",
+        "notifyId": "7bb2bc09-b362-43ea-8b61-4912c3c949ac",
+        "bidCloseDate": "2023-11-14T07:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Biên soạn, in ấn, tái bản, phát hành tập gấp, các ấn phẩm du lịch của tỉnh Quảng Bình năm 2023"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "407",
+            "provName": "Tỉnh Quảng Bình"
+          }
+        ],
+        "notifyNo": "IB2300287264",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300287264-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3101054279",
+        "procuringEntityName": "CÔNG TY CỔ PHẦN TƯ VẤN XÂY DỰNG T&Q",
+        "publicDate": "2023-11-07T08:39:52.405",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T07:00:00",
+        "planType": "TX",
+        "planNo": "PL2300202303",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "In mới POSTCARD Du lịch Quảng Bình",
+          "In mới Quảng Bình Travel Photo Book",
+          "In mới Sách Quảng Bình Tourism Information",
+          "Tái bản có chỉnh sửa Sách Quảng Bình Thiên đường khám phá và trải nghiệm",
+          "Tái bản có chỉnh sửa Sách Quảng Bình hơn cả sự mong đợi",
+          "Tái bản Sách Quang Binh Advanture Tour",
+          "In mới Túi giấy Du lịch Quảng Bình",
+          "Tái bản có chỉnh sửa Sách Khám phá Ẩm thực Quảng Bình"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "49afa2a5-6d92-4076-b5f3-ee322bae3b5c",
+        "createdBy": "vn3101054279",
+        "bidPrice": [
+          489385800
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "In mới POSTCARD Du lịch Quảng Bình"
+          },
+          {
+            "name": "In mới Quảng Bình Travel Photo Book"
+          },
+          {
+            "name": "In mới Sách Quảng Bình Tourism Information"
+          },
+          {
+            "name": "Tái bản có chỉnh sửa Sách Quảng Bình Thiên đường khám phá và trải nghiệm"
+          },
+          {
+            "name": "Tái bản có chỉnh sửa Sách Quảng Bình hơn cả sự mong đợi"
+          },
+          {
+            "name": "Tái bản Sách Quang Binh Advanture Tour"
+          },
+          {
+            "name": "In mới Túi giấy Du lịch Quảng Bình"
+          },
+          {
+            "name": "Tái bản có chỉnh sửa Sách Khám phá Ẩm thực Quảng Bình"
+          }
+        ]
+      },
+      {
+        "id": "183dcd88-f783-4b4b-acde-150e7de159d8",
+        "notifyId": "183dcd88-f783-4b4b-acde-150e7de159d8",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Bảo dưỡng, sửa chữa và thay thế phụ kiện máy"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10105",
+            "districtName": "Quận Hoàn Kiếm"
+          },
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70101",
+            "districtName": "Quận 1"
+          }
+        ],
+        "notifyNo": "IB2300292328",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300292328-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0101500584",
+        "procuringEntityName": "Viện Pháp Y Quốc Gia",
+        "publicDate": "2023-11-07T08:39:51.523",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300205342",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Bảo dưỡng, sửa chữa",
+          "Máy sắc ký khí (GC) (Gas Chromatography",
+          "Máy sắc ký khí khối phổ một lần (GCMS) (Gas Chromatography Mass Spectrometry)",
+          "Thay thế phụ kiện",
+          "Mạch chương trình điều khiển đầu dò khối phổ MSMS (Mass Spectrometry/Mass Spectrometry ) (IMB140 + PLX Support Kit)",
+          "Mạch điều khiển chính (Mainboard GC-QQQ, Tested)",
+          "Dây cảm biến nhiệt cho lò nung máy sắc ký khí (GC oven sensor)",
+          "Nút nguồn (Switch PCA)"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "c36a13ce-09bb-4124-a24d-8579d1f1afaa",
+        "createdBy": "vn0101500584",
+        "bidPrice": [
+          498809000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Bảo dưỡng, sửa chữa"
+          },
+          {
+            "name": "Máy sắc ký khí (GC) (Gas Chromatography"
+          },
+          {
+            "name": "Máy sắc ký khí khối phổ một lần (GCMS) (Gas Chromatography Mass Spectrometry)"
+          },
+          {
+            "name": "Thay thế phụ kiện"
+          },
+          {
+            "name": "Mạch chương trình điều khiển đầu dò khối phổ MSMS (Mass Spectrometry/Mass Spectrometry ) (IMB140 + PLX Support Kit)"
+          },
+          {
+            "name": "Mạch điều khiển chính (Mainboard GC-QQQ, Tested)"
+          },
+          {
+            "name": "Dây cảm biến nhiệt cho lò nung máy sắc ký khí (GC oven sensor)"
+          },
+          {
+            "name": "Nút nguồn (Switch PCA)"
+          }
+        ]
+      },
+      {
+        "id": "f3f2b47e-0e19-441b-a9a5-ce1505bb0c15",
+        "notifyId": "f3f2b47e-0e19-441b-a9a5-ce1505bb0c15",
+        "bidCloseDate": "2023-11-10T15:00:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua thiết bị y tế năm 2023"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "401",
+            "provName": "Tỉnh Thanh Hoá",
+            "districtCode": "40123",
+            "districtName": "Huyện Thường Xuân"
+          }
+        ],
+        "notifyNo": "IB2300303004",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300303004-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn2801338891",
+        "procuringEntityName": "Bệnh viện đa khoa huyện Thường Xuân",
+        "publicDate": "2023-11-07T08:39:47.489",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T15:00:00",
+        "planType": "TX",
+        "planNo": "PL2300207001",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Máy Monitor",
+          "Máy đo nồng độ  cồn",
+          "Ambu bóp bóng sử dụng nhiều lần.",
+          "Bóng đèn máy  nội soi"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "57808c23-9a54-4ec3-8a33-0bd2082bc26e",
+        "createdBy": "vn2801338891",
+        "bidPrice": [
+          41950000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Máy Monitor"
+          },
+          {
+            "name": "Máy đo nồng độ  cồn"
+          },
+          {
+            "name": "Ambu bóp bóng sử dụng nhiều lần."
+          },
+          {
+            "name": "Bóng đèn máy  nội soi"
+          }
+        ]
+      },
+      {
+        "id": "9230996d-98d8-44e3-8d80-8f6a91b4d4cd",
+        "notifyId": "9230996d-98d8-44e3-8d80-8f6a91b4d4cd",
+        "bidCloseDate": "2023-11-27T10:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "Gói thầu số 13: Thi công xây dựng toàn bộ công trình"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10119",
+            "districtName": "Huyện Gia Lâm",
+            "wardCode": "1011929",
+            "wardName": "Thị trấn Trâu Quỳ"
+          }
+        ],
+        "notifyNo": "IB2300302225",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302225-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000012966",
+        "procuringEntityName": "Ban Quản lý dự án đầu tư xây dựng huyện Gia Lâm",
+        "publicDate": "2023-11-07T08:39:08.992",
+        "status": "01",
+        "investorName": "Ban Quản lý dự án đầu tư xây dựng huyện Gia Lâm",
+        "bidOpenDate": "2023-11-27T10:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2200024399",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "a38aeef2-987d-488f-8b1d-4d07bd68cd8e",
+        "createdBy": "vnz000012966",
+        "bidPrice": [
+          41619026000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "KHAC"
+      },
+      {
+        "id": "c2d6450c-58a5-4e3a-91aa-684650ad3f2e",
+        "notifyId": "c2d6450c-58a5-4e3a-91aa-684650ad3f2e",
+        "bidCloseDate": "2023-11-27T10:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "Gói thầu số 12: Tư vấn giám sát thi công xây dựng toàn bộ công trình"
+        ],
+        "investField": [
+          "TV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10119",
+            "districtName": "Huyện Gia Lâm",
+            "wardCode": "1011929",
+            "wardName": "Thị trấn Trâu Quỳ"
+          }
+        ],
+        "notifyNo": "IB2300302426",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302426-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000012966",
+        "procuringEntityName": "Ban Quản lý dự án đầu tư xây dựng huyện Gia Lâm",
+        "publicDate": "2023-11-07T08:38:47.92",
+        "status": "01",
+        "investorName": "Ban Quản lý dự án đầu tư xây dựng huyện Gia Lâm",
+        "bidOpenDate": "2023-11-27T10:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2200024399",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Tư vấn giám sát thi công xây dựng toàn bộ công trình cho dự án Hoàn trả hệ thống mương Kiên Thành dọc tuyến đường 22m trên địa bàn thị trấn Trâu Quỳ, huyện Gia Lâm"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "625d48c7-e91c-4877-8d41-db62ccf750e9",
+        "createdBy": "vnz000012966",
+        "bidPrice": [
+          1033236000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Tư vấn giám sát thi công xây dựng toàn bộ công trình cho dự án Hoàn trả hệ thống mương Kiên Thành dọc tuyến đường 22m trên địa bàn thị trấn Trâu Quỳ, huyện Gia Lâm"
+          }
+        ]
+      },
+      {
+        "id": "973ab4b9-1eb4-48a1-838c-032241389a2d",
+        "notifyId": "973ab4b9-1eb4-48a1-838c-032241389a2d",
+        "bidCloseDate": "2023-11-10T10:00:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Cung cấp văn phòng phẩm; giấy in vi tính liên tục giấy A4, A3, Ao; mực laser năm 2023 cho các Phòng, Đội"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70131",
+            "districtName": "Quận Phú Nhuận"
+          }
+        ],
+        "notifyNo": "IB2300297139",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300297139-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000021891",
+        "procuringEntityName": "Công ty Điện lực Gia Định",
+        "publicDate": "2023-11-07T08:36:43.295",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T10:00:00",
+        "planType": "TX",
+        "planNo": "PL2300208883",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Bấm giấy số 10",
+          "Bấm giấy số 3 xoay",
+          "Băng keo 2 mặt 2F4",
+          "Băng keo lớn màu si 5F",
+          "Băng keo trong 5F dày",
+          "Băng keo trong nhỏ 2F dày",
+          "Bao thư bưu điện (có keo)",
+          "Bìa cột 3 dây loại 1 (1,5 tấc)",
+          "Bìa còng 2 mặt da 7F",
+          "Bìa da cứng có kẹp (bìa đôi)",
+          "Bìa 40 lá F4 (nhựa)",
+          "Bìa Mỹ màu A3 loại 1 (đủ màu)",
+          "Bìa cây plus dày (Bìa nhựa có cây rút A4)",
+          "Bìa nylon myclear F4",
+          "Bìa phân trang nhựa 12stt",
+          "Bìa sơ mi còng da 5F",
+          "Dây thun xuất khẩu (1kg)",
+          "Giấy carbon xanh",
+          "Giấy dán HS 3x3",
+          "Giấy dán HS 3x5",
+          "Hộp sáp đếm tiền",
+          "Kẹp giấy binder 15mm",
+          "Kẹp giấy binder 19mm",
+          "Kẹp giấy binder 32mm",
+          "Kẹp giấy C32 đầu tròn",
+          "Keo dán",
+          "Kim bấm 23*13",
+          "Kim bấm số 10 ĐL - SDI",
+          "Kim bấm số 10 Plus",
+          "Mực stamp pad đỏ",
+          "Mực stamp pad xanh",
+          "Đồ chuốt bút chì",
+          "Pin 9V",
+          "Pin AA",
+          "Pin tiểu",
+          "Pin đại ( cục)",
+          "Pin 3A",
+          "Ruột chì bấm",
+          "Sổ caro 20 *30 dày",
+          "Sổ caro 25 *35 dày",
+          "Sổ caro 30 *40 dày",
+          "Tập 96 trang",
+          "Thước kẻ 3 tấc",
+          "Viết bàn có dây",
+          "Viết bic đen",
+          "Viết bic đỏ",
+          "Viết bic xanh",
+          "Viết chì 2B (có gôm )",
+          "Viết chì bấm",
+          "Viết dạ quang màu cam",
+          "Viết dạ quang màu hồng",
+          "Viết dạ quang màu vàng",
+          "Viết dạ quang màu xanh lá",
+          "Viết lông dầu đen",
+          "Viết lông dầu đỏ",
+          "Viết lông dầu xanh",
+          "Viết xóa kéo dài (12m)",
+          "Paper Fastener (Kẹp accor nhựa)",
+          "Binder loại lớn 51mm",
+          "Đồ bấm lỗ",
+          "Đồ gỡ kim",
+          "Bìa cột 3 dây loại 1 (1 tấc)",
+          "Kéo cắt giấy vĩ",
+          "Viết lông viết bảng",
+          "Băng keo trong 7 phân",
+          "Bìa nylon lá hở 02 cạnh",
+          "Dao lam",
+          "Dao rọc giấy nhỏ",
+          "Dây Nylon cột hồ sơ (loại 1 kg)",
+          "Giấy polure",
+          "Gôm chì",
+          "Rổ nhựa xéo đựng hồ sơ",
+          "Ruột xóa kéo dài",
+          "Viết xóa nước",
+          "Memo paper (note mũi tên)",
+          "Bìa xanh khổ A4 180gms",
+          "Bìa lỗ",
+          "Băng keo xốp 2 mặt",
+          "Bìa còng ống A4 10cm",
+          "Bìa còng ống A4 15cm",
+          "Giấy cuộn A0",
+          "Giấy A3-80gms trắng",
+          "Giấy A4-70gms trắng",
+          "Giấy A4-80gms trắng",
+          "Giấy A3 - 3 liên 380 * 279",
+          "Mực in laser 12A",
+          "Mực in laser 49A",
+          "Mực in laser 53A",
+          "Mực in laser 83A",
+          "Mực  in laser 05A",
+          "Mực in laser 26A",
+          "Mực in laser 14A",
+          "Mực  in laser 16A"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "d8a5e199-7283-4238-a05d-d15121427db6",
+        "createdBy": "vnz000021891-08",
+        "bidPrice": [
+          295686010
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Bấm giấy số 10"
+          },
+          {
+            "name": "Bấm giấy số 3 xoay"
+          },
+          {
+            "name": "Băng keo 2 mặt 2F4"
+          },
+          {
+            "name": "Băng keo lớn màu si 5F"
+          },
+          {
+            "name": "Băng keo trong 5F dày"
+          },
+          {
+            "name": "Băng keo trong nhỏ 2F dày"
+          },
+          {
+            "name": "Bao thư bưu điện (có keo)"
+          },
+          {
+            "name": "Bìa cột 3 dây loại 1 (1,5 tấc)"
+          },
+          {
+            "name": "Bìa còng 2 mặt da 7F"
+          },
+          {
+            "name": "Bìa da cứng có kẹp (bìa đôi)"
+          },
+          {
+            "name": "Bìa 40 lá F4 (nhựa)"
+          },
+          {
+            "name": "Bìa Mỹ màu A3 loại 1 (đủ màu)"
+          },
+          {
+            "name": "Bìa cây plus dày (Bìa nhựa có cây rút A4)"
+          },
+          {
+            "name": "Bìa nylon myclear F4"
+          },
+          {
+            "name": "Bìa phân trang nhựa 12stt"
+          },
+          {
+            "name": "Bìa sơ mi còng da 5F"
+          },
+          {
+            "name": "Dây thun xuất khẩu (1kg)"
+          },
+          {
+            "name": "Giấy carbon xanh"
+          },
+          {
+            "name": "Giấy dán HS 3x3"
+          },
+          {
+            "name": "Giấy dán HS 3x5"
+          },
+          {
+            "name": "Hộp sáp đếm tiền"
+          },
+          {
+            "name": "Kẹp giấy binder 15mm"
+          },
+          {
+            "name": "Kẹp giấy binder 19mm"
+          },
+          {
+            "name": "Kẹp giấy binder 32mm"
+          },
+          {
+            "name": "Kẹp giấy C32 đầu tròn"
+          },
+          {
+            "name": "Keo dán"
+          },
+          {
+            "name": "Kim bấm 23*13"
+          },
+          {
+            "name": "Kim bấm số 10 ĐL - SDI"
+          },
+          {
+            "name": "Kim bấm số 10 Plus"
+          },
+          {
+            "name": "Mực stamp pad đỏ"
+          },
+          {
+            "name": "Mực stamp pad xanh"
+          },
+          {
+            "name": "Đồ chuốt bút chì"
+          },
+          {
+            "name": "Pin 9V"
+          },
+          {
+            "name": "Pin AA"
+          },
+          {
+            "name": "Pin tiểu"
+          },
+          {
+            "name": "Pin đại ( cục)"
+          },
+          {
+            "name": "Pin 3A"
+          },
+          {
+            "name": "Ruột chì bấm"
+          },
+          {
+            "name": "Sổ caro 20 *30 dày"
+          },
+          {
+            "name": "Sổ caro 25 *35 dày"
+          },
+          {
+            "name": "Sổ caro 30 *40 dày"
+          },
+          {
+            "name": "Tập 96 trang"
+          },
+          {
+            "name": "Thước kẻ 3 tấc"
+          },
+          {
+            "name": "Viết bàn có dây"
+          },
+          {
+            "name": "Viết bic đen"
+          },
+          {
+            "name": "Viết bic đỏ"
+          },
+          {
+            "name": "Viết bic xanh"
+          },
+          {
+            "name": "Viết chì 2B (có gôm )"
+          },
+          {
+            "name": "Viết chì bấm"
+          },
+          {
+            "name": "Viết dạ quang màu cam"
+          },
+          {
+            "name": "Viết dạ quang màu hồng"
+          },
+          {
+            "name": "Viết dạ quang màu vàng"
+          },
+          {
+            "name": "Viết dạ quang màu xanh lá"
+          },
+          {
+            "name": "Viết lông dầu đen"
+          },
+          {
+            "name": "Viết lông dầu đỏ"
+          },
+          {
+            "name": "Viết lông dầu xanh"
+          },
+          {
+            "name": "Viết xóa kéo dài (12m)"
+          },
+          {
+            "name": "Paper Fastener (Kẹp accor nhựa)"
+          },
+          {
+            "name": "Binder loại lớn 51mm"
+          },
+          {
+            "name": "Đồ bấm lỗ"
+          },
+          {
+            "name": "Đồ gỡ kim"
+          },
+          {
+            "name": "Bìa cột 3 dây loại 1 (1 tấc)"
+          },
+          {
+            "name": "Kéo cắt giấy vĩ"
+          },
+          {
+            "name": "Viết lông viết bảng"
+          },
+          {
+            "name": "Băng keo trong 7 phân"
+          },
+          {
+            "name": "Bìa nylon lá hở 02 cạnh"
+          },
+          {
+            "name": "Dao lam"
+          },
+          {
+            "name": "Dao rọc giấy nhỏ"
+          },
+          {
+            "name": "Dây Nylon cột hồ sơ (loại 1 kg)"
+          },
+          {
+            "name": "Giấy polure"
+          },
+          {
+            "name": "Gôm chì"
+          },
+          {
+            "name": "Rổ nhựa xéo đựng hồ sơ"
+          },
+          {
+            "name": "Ruột xóa kéo dài"
+          },
+          {
+            "name": "Viết xóa nước"
+          },
+          {
+            "name": "Memo paper (note mũi tên)"
+          },
+          {
+            "name": "Bìa xanh khổ A4 180gms"
+          },
+          {
+            "name": "Bìa lỗ"
+          },
+          {
+            "name": "Băng keo xốp 2 mặt"
+          },
+          {
+            "name": "Bìa còng ống A4 10cm"
+          },
+          {
+            "name": "Bìa còng ống A4 15cm"
+          },
+          {
+            "name": "Giấy cuộn A0"
+          },
+          {
+            "name": "Giấy A3-80gms trắng"
+          },
+          {
+            "name": "Giấy A4-70gms trắng"
+          },
+          {
+            "name": "Giấy A4-80gms trắng"
+          },
+          {
+            "name": "Giấy A3 - 3 liên 380 * 279"
+          },
+          {
+            "name": "Mực in laser 12A"
+          },
+          {
+            "name": "Mực in laser 49A"
+          },
+          {
+            "name": "Mực in laser 53A"
+          },
+          {
+            "name": "Mực in laser 83A"
+          },
+          {
+            "name": "Mực  in laser 05A"
+          },
+          {
+            "name": "Mực in laser 26A"
+          },
+          {
+            "name": "Mực in laser 14A"
+          },
+          {
+            "name": "Mực  in laser 16A"
+          }
+        ]
+      },
+      {
+        "id": "8d64a8ec-7714-4b5c-a9f9-aa0b53dfc3bf",
+        "notifyId": "8d64a8ec-7714-4b5c-a9f9-aa0b53dfc3bf",
+        "bidCloseDate": "2023-11-30T08:30:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "23DCSX-G44: Cung cấp thiết bị thi công năm 2024"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "409",
+            "provName": "Tỉnh Quảng Trị"
+          },
+          {
+            "provCode": "501",
+            "provName": "Thành phố Đà Nẵng"
+          },
+          {
+            "provCode": "507",
+            "provName": "Tỉnh Bình Định"
+          },
+          {
+            "provCode": "509",
+            "provName": "Tỉnh Phú Yên"
+          },
+          {
+            "provCode": "603",
+            "provName": "Tỉnh Gia Lai"
+          },
+          {
+            "provCode": "601",
+            "provName": "Tỉnh Kon Tum"
+          },
+          {
+            "provCode": "605",
+            "provName": "Tỉnh Đăk Lăk"
+          },
+          {
+            "provCode": "606",
+            "provName": "Tỉnh Đăk Nông"
+          }
+        ],
+        "notifyNo": "IB2300294253",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300294253-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0400101394",
+        "procuringEntityName": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG",
+        "publicDate": "2023-11-07T08:36:38.251",
+        "status": "01",
+        "investorName": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG",
+        "bidOpenDate": "2023-11-30T08:30:00",
+        "planType": "DTPT",
+        "planNo": "PL2300197724",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Kìm ép đầu cốt 12 tấn dùng Pin",
+          "Kìm ép đầu cốt 25 tấn",
+          "Máy đục lỗ thủy lực dùng pin nhỏ gọn Φ 20mm/ độ dày 8mm",
+          "Kìm cắt cáp dùng pin 12 tấn",
+          "Bộ dao gọt vỏ cáp trung thế (01 Dao cắt vỏ cáp trung thế, 01 Dao gọt cách điện cáp trung thế, 01 Dao gọt tà đầu cách điện cáp trung thế, 01 Dao gọt bán dẫn cáp trung thế)"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "7dfd0d8e-b309-4a11-bc11-053c6d9aca26",
+        "createdBy": "vn0400101394-10",
+        "bidPrice": [
+          3239141400
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Kìm ép đầu cốt 12 tấn dùng Pin"
+          },
+          {
+            "name": "Kìm ép đầu cốt 25 tấn"
+          },
+          {
+            "name": "Máy đục lỗ thủy lực dùng pin nhỏ gọn Φ 20mm/ độ dày 8mm"
+          },
+          {
+            "name": "Kìm cắt cáp dùng pin 12 tấn"
+          },
+          {
+            "name": "Bộ dao gọt vỏ cáp trung thế (01 Dao cắt vỏ cáp trung thế, 01 Dao gọt cách điện cáp trung thế, 01 Dao gọt tà đầu cách điện cáp trung thế, 01 Dao gọt bán dẫn cáp trung thế)"
+          }
+        ]
+      },
+      {
+        "id": "2749b16c-104b-41a6-83de-ef94ae2a99a5",
+        "notifyId": "2749b16c-104b-41a6-83de-ef94ae2a99a5",
+        "bidCloseDate": "2023-11-14T09:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm vật chất, hàng hoá chuyên ngành"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10155",
+            "districtName": "Quận Nam Từ Liêm"
+          }
+        ],
+        "notifyNo": "IB2300266093",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300266093-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0103684168",
+        "procuringEntityName": "Cơ quan Bộ Tư lệnh Cảnh sát biển",
+        "publicDate": "2023-11-07T08:36:37.11",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300186595",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Khung thép.",
+          "Bộ nhôm kính.",
+          "Ray kéo bản đồ.",
+          "Phụ kiện: Bánh xe di chuyển.",
+          "Cửa phòng máy",
+          "Khung thép liên kết vách áp tường",
+          "Vách gỗ nhựa Composite ốp tường",
+          "Phào góc trần",
+          "Phào ống tơ giữa vách, quanh khung giấy dán tường",
+          "Phào chân tường",
+          "Tiêu âm",
+          "Vách ngăn phía sau",
+          "Đèn trần xuyên sáng:\n(Phần khung thép,\nTấm xuyên sáng,\nĐèn led,\nNguồn 12V,\nĐiều khiển ánh sáng).",
+          "Dây điện",
+          "Ống luồn dây điện",
+          "Bộ tự động điều khiển",
+          "Rèm cửa",
+          "Rèm cửa",
+          "Rèm cửa",
+          "Sàn gỗ",
+          "Đèn led"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "3cd28933-580a-4dde-9395-2aea5787218b",
+        "createdBy": "vn0103684168",
+        "bidPrice": [
+          1263672300
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Khung thép."
+          },
+          {
+            "name": "Bộ nhôm kính."
+          },
+          {
+            "name": "Ray kéo bản đồ."
+          },
+          {
+            "name": "Phụ kiện: Bánh xe di chuyển."
+          },
+          {
+            "name": "Cửa phòng máy"
+          },
+          {
+            "name": "Khung thép liên kết vách áp tường"
+          },
+          {
+            "name": "Vách gỗ nhựa Composite ốp tường"
+          },
+          {
+            "name": "Phào góc trần"
+          },
+          {
+            "name": "Phào ống tơ giữa vách, quanh khung giấy dán tường"
+          },
+          {
+            "name": "Phào chân tường"
+          },
+          {
+            "name": "Tiêu âm"
+          },
+          {
+            "name": "Vách ngăn phía sau"
+          },
+          {
+            "name": "Đèn trần xuyên sáng:\n(Phần khung thép,\nTấm xuyên sáng,\nĐèn led,\nNguồn 12V,\nĐiều khiển ánh sáng)."
+          },
+          {
+            "name": "Dây điện"
+          },
+          {
+            "name": "Ống luồn dây điện"
+          },
+          {
+            "name": "Bộ tự động điều khiển"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Sàn gỗ"
+          },
+          {
+            "name": "Đèn led"
+          }
+        ]
+      },
+      {
+        "id": "48a073b4-10da-40d5-8d94-2181c46b7055",
+        "notifyId": "48a073b4-10da-40d5-8d94-2181c46b7055",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 01: Toàn bộ chi phí xây lắp"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "703",
+            "provName": "Tỉnh Lâm Đồng",
+            "districtCode": "70303",
+            "districtName": "Thành phố Bảo Lộc"
+          }
+        ],
+        "notifyNo": "IB2300293763",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300293763-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn5800469713",
+        "procuringEntityName": "CÔNG TY TNHH  TƯ VẤN XÂY DỰNG SÔNG HỒNG",
+        "publicDate": "2023-11-07T08:36:26.052",
+        "status": "01",
+        "investorName": "CÔNG AN HUYỆN BẢO LÂM",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300206631",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Công trình công cộng cấp IV",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "8a6d8747-347d-42c9-9c72-59e54b083c18",
+        "createdBy": "vn5800469713",
+        "bidPrice": [
+          2548748195
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Công trình công cộng cấp IV"
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTTT"
+      },
+      {
+        "id": "370fcfe8-9cbc-4ff6-9a6b-4f3acce815d5",
+        "notifyId": "370fcfe8-9cbc-4ff6-9a6b-4f3acce815d5",
+        "bidCloseDate": "2023-11-14T15:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm vật tư, trang bị ngàng Tuyên huấn"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "717",
+            "provName": "Tỉnh Bà Rịa - Vũng Tàu",
+            "districtCode": "71701",
+            "districtName": "Thành phố Vũng Tàu"
+          }
+        ],
+        "notifyNo": "IB2300302924",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302924-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3502421208",
+        "procuringEntityName": "Lữ đoàn 171",
+        "publicDate": "2023-11-07T08:33:41.232",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T15:00:00",
+        "planType": "TX",
+        "planNo": "PL2300208522",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Bàn đọc sách",
+          "Ghế tựa",
+          "Ghế Salon đơn",
+          "Tủ sách",
+          "Bàn làm việc",
+          "Tủ áo 2 buồng",
+          "Khăn trải bàn",
+          "Micro cổ ngổng",
+          "Giá đỡ micro chân cao",
+          "Micro không dây",
+          "Loa Fullrange Martin Audio 8 Ohm Stereo - 1000W",
+          "Amly Power Crest - Audio 8 Ohm Stereo - 1200W",
+          "Pat treo loa",
+          "Dây loa",
+          "Echo Alesis (Đáp tuyến tần số: 20 Hz-20 kHz +-1 db)",
+          "Tủ đựng thiết bị",
+          "Mua máy đánh giày shiny SHN-G5",
+          "Bình nước nóng Panasonic",
+          "Bàn uống nước đôi",
+          "Bộ điều khiển trình chiếu từ xa laze Logitech R500s",
+          "Dây tính hiệu",
+          "Ghế gỗ xoan đào",
+          "Dây điện 5.5"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "ccbb1bbb-9f70-428d-87db-94e737f696e3",
+        "createdBy": "vn3502421208",
+        "bidPrice": [
+          500000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Bàn đọc sách"
+          },
+          {
+            "name": "Ghế tựa"
+          },
+          {
+            "name": "Ghế Salon đơn"
+          },
+          {
+            "name": "Tủ sách"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Tủ áo 2 buồng"
+          },
+          {
+            "name": "Khăn trải bàn"
+          },
+          {
+            "name": "Micro cổ ngổng"
+          },
+          {
+            "name": "Giá đỡ micro chân cao"
+          },
+          {
+            "name": "Micro không dây"
+          },
+          {
+            "name": "Loa Fullrange Martin Audio 8 Ohm Stereo - 1000W"
+          },
+          {
+            "name": "Amly Power Crest - Audio 8 Ohm Stereo - 1200W"
+          },
+          {
+            "name": "Pat treo loa"
+          },
+          {
+            "name": "Dây loa"
+          },
+          {
+            "name": "Echo Alesis (Đáp tuyến tần số: 20 Hz-20 kHz +-1 db)"
+          },
+          {
+            "name": "Tủ đựng thiết bị"
+          },
+          {
+            "name": "Mua máy đánh giày shiny SHN-G5"
+          },
+          {
+            "name": "Bình nước nóng Panasonic"
+          },
+          {
+            "name": "Bàn uống nước đôi"
+          },
+          {
+            "name": "Bộ điều khiển trình chiếu từ xa laze Logitech R500s"
+          },
+          {
+            "name": "Dây tính hiệu"
+          },
+          {
+            "name": "Ghế gỗ xoan đào"
+          },
+          {
+            "name": "Dây điện 5.5"
+          }
+        ]
+      },
+      {
+        "id": "e96bb773-ae07-44c0-8074-2df096a68182",
+        "notifyId": "e96bb773-ae07-44c0-8074-2df096a68182",
+        "bidCloseDate": "2023-11-10T09:00:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm Sinh phẩm chẩn đoán năm 2023 – 2024 (gồm 03 lô sinh phẩm chẩn đoán)"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "103",
+            "provName": "Thành phố Hải Phòng",
+            "districtCode": "10305",
+            "districtName": "Quận Lê Chân"
+          }
+        ],
+        "notifyNo": "IB2300302982",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302982-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0200891120",
+        "procuringEntityName": "Bệnh viện Hữu nghị Việt Tiệp",
+        "publicDate": "2023-11-07T08:30:29.878",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300212559",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Test nhanh định tính phát hiện kháng thể HBsAb",
+          "Test nhanh định tính phát hiện kháng thể HBsAb",
+          "Test nhanh Xét nghiệm định tính Chlamydia",
+          "Test nhanh Xét nghiệm định tính Chlamydia",
+          "RF Latex",
+          "RF Latex"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "618195dd-e430-4fcc-b104-c31baa58da43",
+        "createdBy": "vn0200891120-10",
+        "bidPrice": [
+          195480000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Test nhanh định tính phát hiện kháng thể HBsAb"
+          },
+          {
+            "name": "Test nhanh định tính phát hiện kháng thể HBsAb"
+          },
+          {
+            "name": "Test nhanh Xét nghiệm định tính Chlamydia"
+          },
+          {
+            "name": "Test nhanh Xét nghiệm định tính Chlamydia"
+          },
+          {
+            "name": "RF Latex"
+          },
+          {
+            "name": "RF Latex"
+          }
+        ]
+      },
+      {
+        "id": "71fa17c9-adc9-4837-8da2-b04d3f7fab1e",
+        "notifyId": "71fa17c9-adc9-4837-8da2-b04d3f7fab1e",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Mua sắm hàng hóa"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70135",
+            "districtName": "Huyện Củ Chi"
+          }
+        ],
+        "notifyNo": "IB2300302923",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302923-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0314831710",
+        "procuringEntityName": "CÔNG TY TNHH TƯ VẤN XÂY DỰNG PHƯỢNG VỸ",
+        "publicDate": "2023-11-07T08:30:22.648",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300211601",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Xe ô tô cuốn ép chở rác 22 m3"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "0eb73440-b0bc-4ec5-b415-c7a867ab8786",
+        "createdBy": "vn0314831710",
+        "bidPrice": [
+          2850000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Xe ô tô cuốn ép chở rác 22 m3"
+          }
+        ]
+      },
+      {
+        "id": "fa30619b-8cde-49a8-ba37-0c0c049426ae",
+        "notifyId": "fa30619b-8cde-49a8-ba37-0c0c049426ae",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 05: Toàn bộ phần xây dựng+ thiết bị"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10151",
+            "districtName": "Huyện Ba Vì"
+          }
+        ],
+        "notifyNo": "IB2300300387",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300387-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000017127",
+        "procuringEntityName": "Phòng Lao động - Thương binh và xã hội huyện Ba Vì",
+        "publicDate": "2023-11-07T08:28:39.978",
+        "status": "01",
+        "investorName": "Phòng Lao động - Thương binh và xã hội huyện Ba Vì",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300210949",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "d10cc572-d12f-459b-ab2f-d6b626017779",
+        "createdBy": "vnz000017127",
+        "bidPrice": [
+          5357302588
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "KHAC"
+      },
+      {
+        "id": "62ab2073-5d72-4fd5-86b6-bdcbb3685d36",
+        "notifyId": "62ab2073-5d72-4fd5-86b6-bdcbb3685d36",
+        "bidCloseDate": "2023-11-17T08:45:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói số 1: Mua sắm các thiết bị Chẩn đoán hình ảnh"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội"
+          }
+        ],
+        "notifyNo": "IB2300302250",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302250-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000023759",
+        "procuringEntityName": "Bệnh viện Bưu Điện",
+        "publicDate": "2023-11-07T08:27:57.091",
+        "status": "01",
+        "investorName": "Bệnh viện Bưu Điện",
+        "bidOpenDate": "2023-11-17T08:45:00",
+        "planType": "DTPT",
+        "planNo": "PL2300186684",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Máy chụp X-quang KTS",
+          "Máy C-Arm",
+          "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)",
+          "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)",
+          "Máy nội soi Tai Mũi Họng",
+          "Máy chụp X-quang KTS",
+          "Máy chụp X-quang KTS",
+          "Máy C-Arm",
+          "Máy C-Arm",
+          "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)",
+          "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)",
+          "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)",
+          "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)",
+          "Máy nội soi Tai Mũi Họng",
+          "Máy nội soi Tai Mũi Họng"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b2d3e043-efd1-4f9f-8315-9a54074f6ef9",
+        "createdBy": "vnz000023759",
+        "bidPrice": [
+          9730000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Máy chụp X-quang KTS"
+          },
+          {
+            "name": "Máy C-Arm"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy nội soi Tai Mũi Họng"
+          },
+          {
+            "name": "Máy chụp X-quang KTS"
+          },
+          {
+            "name": "Máy chụp X-quang KTS"
+          },
+          {
+            "name": "Máy C-Arm"
+          },
+          {
+            "name": "Máy C-Arm"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò sản khoa và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy siêu âm Doppler màu (1 đầu dò mạch và 1 đầu dò tổng quát)"
+          },
+          {
+            "name": "Máy nội soi Tai Mũi Họng"
+          },
+          {
+            "name": "Máy nội soi Tai Mũi Họng"
+          }
+        ]
+      },
+      {
+        "id": "8b53549f-1e7e-4491-937f-91306ee88753",
+        "notifyId": "8b53549f-1e7e-4491-937f-91306ee88753",
+        "bidCloseDate": "2023-11-17T08:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 1: Thi công xây dựng"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "807",
+            "provName": "Tỉnh Tiền Giang",
+            "districtCode": "80709",
+            "districtName": "Huyện Cai Lậy"
+          }
+        ],
+        "notifyNo": "IB2300300608",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300608-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn1200781144",
+        "procuringEntityName": "Ban Quản lý dự án và Phát triển quỹ đất huyện Cai Lậy",
+        "publicDate": "2023-11-07T08:27:53.098",
+        "status": "01",
+        "investorName": "Ban Quản lý dự án và Phát triển quỹ đất huyện Cai Lậy",
+        "bidOpenDate": "2023-11-17T08:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300210400",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Công trình hạ tầng kỹ thuật cấp 4",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "89af2ea9-03f7-4f6c-94b2-6b400d5877ee",
+        "createdBy": "vn1200781144-02",
+        "bidPrice": [
+          5047196602
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Công trình hạ tầng kỹ thuật cấp 4"
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTDB"
+      },
+      {
+        "id": "eed7e9da-790a-4a1b-9896-77f4e4dc8085",
+        "notifyId": "eed7e9da-790a-4a1b-9896-77f4e4dc8085",
+        "bidCloseDate": "2023-11-14T08:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Xây dựng, dàn dựng chương trình ca múa nhạc “Hát về quê hương đất nước tôi” năm 2023"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "107",
+            "provName": "Tỉnh Hải Dương",
+            "districtCode": "10701",
+            "districtName": "Thành phố Hải Dương"
+          }
+        ],
+        "notifyNo": "IB2300302415",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302415-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn0800380008",
+        "procuringEntityName": "Trung tâm Văn hóa nghệ thuật tỉnh Hải Dương",
+        "publicDate": "2023-11-07T08:25:40.656",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T08:00:00",
+        "planType": "TX",
+        "planNo": "PL2300208926",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Biên kịch-Kịch bản chương trình",
+          "Đạo diễn chương trình",
+          "Họa sỹ thiết kế mỹ thuật sân khấu",
+          "Sáng tác ca khúc",
+          "Biên đạo 02 tiết mục múa độc lập",
+          "Biên đạo 06 tiết mục múa Phụ họa cho bài hát",
+          "Nhạc sĩ sáng tác, phối khí, biên tập âm nhạc",
+          "Nhạc sĩ phối khí  ca khúc"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b2812f86-e77e-4bec-b388-7061dbad292f",
+        "createdBy": "vn0800380008",
+        "bidPrice": [
+          435112000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Biên kịch-Kịch bản chương trình"
+          },
+          {
+            "name": "Đạo diễn chương trình"
+          },
+          {
+            "name": "Họa sỹ thiết kế mỹ thuật sân khấu"
+          },
+          {
+            "name": "Sáng tác ca khúc"
+          },
+          {
+            "name": "Biên đạo 02 tiết mục múa độc lập"
+          },
+          {
+            "name": "Biên đạo 06 tiết mục múa Phụ họa cho bài hát"
+          },
+          {
+            "name": "Nhạc sĩ sáng tác, phối khí, biên tập âm nhạc"
+          },
+          {
+            "name": "Nhạc sĩ phối khí  ca khúc"
+          }
+        ]
+      },
+      {
+        "id": "44f24afa-56e3-4c48-ac1e-3d642550ab30",
+        "notifyId": "44f24afa-56e3-4c48-ac1e-3d642550ab30",
+        "bidCloseDate": "2023-11-27T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "Tư vấn khảo sát và lập BCNCKT dự án: Ngầm hóa lưới điện trên đường Nhất Chi Mai, Thân Nhân Trung, Nguyễn Đức Thuận quận Tân Bình"
+        ],
+        "investField": [
+          "TV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "701",
+            "provName": "TP. Hồ Chí Minh",
+            "districtCode": "70127",
+            "districtName": "Quận Tân Bình"
+          }
+        ],
+        "notifyNo": "IB2300297007",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300297007-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000013519",
+        "procuringEntityName": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC THÀNH PHỐ HỒ CHÍ MINH TNHH - BAN QUẢN LÝ DỰ ÁN LƯỚI ĐIỆN PHÂN PHỐI THÀNH PHỐ HỒ CHÍ MINH",
+        "publicDate": "2023-11-07T08:25:15.859",
+        "status": "01",
+        "investorName": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC THÀNH PHỐ HỒ CHÍ MINH TNHH - BAN QUẢN LÝ DỰ ÁN LƯỚI ĐIỆN PHÂN PHỐI THÀNH PHỐ HỒ CHÍ MINH",
+        "bidOpenDate": "2023-11-27T09:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300199103",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Lập nhiệm vụ khảo sát, dự toán chi phí khảo sát, phương án kỹ thuật khảo sát, nhật ký khảo sát.",
+          "Tham vấn cộng đồng (nếu có), lập kế hoạch tiến độ bằng Microsoft Project, thỏa thuận tuyến, vị trí thiết bị, trụ,…, lập báo cáo kết quả khảo sát.",
+          "Lập, trình thẩm định TKCS, trình duyệt hồ sơ BCNCKT.",
+          "- Báo cáo định kỳ: nhà thầu phải báo cáo tiến độ định kỳ thực hiện công tác tư vấn vào thứ năm hàng tuần.",
+          "Sửa đổi thiết kế, dự toán, BCNCKT: < 05 ngày, kể từ ngày phát sinh nội dung cần sửa đổi và được các bên thống nhất lập Biên bản hiện trường và/hoặc từ yêu cầu (bằng văn bản) của Chủ đầu tư. Trong trường hợp cấp bách, nhà thầu tư vấn phải phát hành Biên bản sửa đổi + Bản vẽ thi công sửa đổi trong vòng 01 ngày kể từ ngày phát sinh nội dung cần sửa đổi. Các sửa đổi lớn, phức tạp, hai bên sẽ thống nhất thời gian cụ thể cho từng trường hợp."
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b6ebe5ca-fdb7-4817-8525-b4d788b64388",
+        "createdBy": "vnz000013519-03",
+        "bidPrice": [
+          389713193
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Lập nhiệm vụ khảo sát, dự toán chi phí khảo sát, phương án kỹ thuật khảo sát, nhật ký khảo sát."
+          },
+          {
+            "name": "Tham vấn cộng đồng (nếu có), lập kế hoạch tiến độ bằng Microsoft Project, thỏa thuận tuyến, vị trí thiết bị, trụ,…, lập báo cáo kết quả khảo sát."
+          },
+          {
+            "name": "Lập, trình thẩm định TKCS, trình duyệt hồ sơ BCNCKT."
+          },
+          {
+            "name": "- Báo cáo định kỳ: nhà thầu phải báo cáo tiến độ định kỳ thực hiện công tác tư vấn vào thứ năm hàng tuần."
+          },
+          {
+            "name": "Sửa đổi thiết kế, dự toán, BCNCKT: < 05 ngày, kể từ ngày phát sinh nội dung cần sửa đổi và được các bên thống nhất lập Biên bản hiện trường và/hoặc từ yêu cầu (bằng văn bản) của Chủ đầu tư. Trong trường hợp cấp bách, nhà thầu tư vấn phải phát hành Biên bản sửa đổi + Bản vẽ thi công sửa đổi trong vòng 01 ngày kể từ ngày phát sinh nội dung cần sửa đổi. Các sửa đổi lớn, phức tạp, hai bên sẽ thống nhất thời gian cụ thể cho từng trường hợp."
+          }
+        ]
+      },
+      {
+        "id": "0e8c5426-0fd8-44f6-86c1-8d6df00be9be",
+        "notifyId": "0e8c5426-0fd8-44f6-86c1-8d6df00be9be",
+        "bidCloseDate": "2023-11-17T08:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 03: Mua sắm thiết bị"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "303",
+            "provName": "Tỉnh Sơn La",
+            "districtCode": "30301",
+            "districtName": "Thành phố Sơn La"
+          }
+        ],
+        "notifyNo": "IB2300301127",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300301127-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn5500260703",
+        "procuringEntityName": "PHÒNG GIÁO DỤC THÀNH PHỐ SƠN LA",
+        "publicDate": "2023-11-07T08:25:02.198",
+        "status": "01",
+        "bidOpenDate": "2023-11-17T08:00:00",
+        "planType": "TX",
+        "planNo": "PL2300211341",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Máy quay",
+          "Tripod cho máy quay",
+          "Bàn trộn hình ảnh",
+          "Màn hình Monitor 24 inch (cho bàn trộn hình ảnh)",
+          "Bàn trộn âm thanh",
+          "Micro shotgun",
+          "Đế chống rung cho micro shotgun",
+          "Micro thu âm cho giáo viên",
+          "Máy tính",
+          "Màn hình máy tính",
+          "Phần mềm windown bản quyền (Windown 10)",
+          "Phần mềm diệt virus",
+          "Loa gắn tường 30W",
+          "Âm ly liền mixer 120W",
+          "Tivi 75 inch",
+          "Giá treo tivi",
+          "Phụ kiện đồng bộ hệ thống (cáp HDMI, cáp âm thanh, giắc tín hiệu âm thanh)",
+          "Tủ đựng thiết bị",
+          "Hệ thống mạng (chủ đầu tư chọn)",
+          "Hướng dẫn vận hành và đào tạo hệ thống Thời gian: 2 ngày với 8 bài học (2 giờ / bài học)",
+          "Thi công rèm treo di động",
+          "Đèn quay phim 60x-s",
+          "Đèn quay phim 60d-s",
+          "Phụ kiện Amaran Light Dome SE",
+          "Phụ kiện Aputure Lantern Softbox",
+          "Chân đèn",
+          "Thuê License hệ thống quản lý đa điểm MCU cho các điểm cầu theo năm",
+          "Bộ thiết bị đầu cuối"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "f83a0f7e-6912-492b-ae7b-d6a626ea2a48",
+        "createdBy": "vn5500260703",
+        "bidPrice": [
+          400000000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Máy quay"
+          },
+          {
+            "name": "Tripod cho máy quay"
+          },
+          {
+            "name": "Bàn trộn hình ảnh"
+          },
+          {
+            "name": "Màn hình Monitor 24 inch (cho bàn trộn hình ảnh)"
+          },
+          {
+            "name": "Bàn trộn âm thanh"
+          },
+          {
+            "name": "Micro shotgun"
+          },
+          {
+            "name": "Đế chống rung cho micro shotgun"
+          },
+          {
+            "name": "Micro thu âm cho giáo viên"
+          },
+          {
+            "name": "Máy tính"
+          },
+          {
+            "name": "Màn hình máy tính"
+          },
+          {
+            "name": "Phần mềm windown bản quyền (Windown 10)"
+          },
+          {
+            "name": "Phần mềm diệt virus"
+          },
+          {
+            "name": "Loa gắn tường 30W"
+          },
+          {
+            "name": "Âm ly liền mixer 120W"
+          },
+          {
+            "name": "Tivi 75 inch"
+          },
+          {
+            "name": "Giá treo tivi"
+          },
+          {
+            "name": "Phụ kiện đồng bộ hệ thống (cáp HDMI, cáp âm thanh, giắc tín hiệu âm thanh)"
+          },
+          {
+            "name": "Tủ đựng thiết bị"
+          },
+          {
+            "name": "Hệ thống mạng (chủ đầu tư chọn)"
+          },
+          {
+            "name": "Hướng dẫn vận hành và đào tạo hệ thống Thời gian: 2 ngày với 8 bài học (2 giờ / bài học)"
+          },
+          {
+            "name": "Thi công rèm treo di động"
+          },
+          {
+            "name": "Đèn quay phim 60x-s"
+          },
+          {
+            "name": "Đèn quay phim 60d-s"
+          },
+          {
+            "name": "Phụ kiện Amaran Light Dome SE"
+          },
+          {
+            "name": "Phụ kiện Aputure Lantern Softbox"
+          },
+          {
+            "name": "Chân đèn"
+          },
+          {
+            "name": "Thuê License hệ thống quản lý đa điểm MCU cho các điểm cầu theo năm"
+          },
+          {
+            "name": "Bộ thiết bị đầu cuối"
+          }
+        ]
+      },
+      {
+        "id": "f44fe62a-80f2-4bd5-a565-c6718fd5c236",
+        "notifyId": "f44fe62a-80f2-4bd5-a565-c6718fd5c236",
+        "bidCloseDate": "2023-11-17T15:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 111044-ĐTRR-VTNet-XL 2023: Đầu tư xây dựng hạ tầng mở rộng mạng cáp quang năm 2023 tại Lào Cai"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "205",
+            "provName": "Tỉnh Lào Cai"
+          }
+        ],
+        "notifyNo": "IB2300300141",
+        "notifyVersion": "01",
+        "notifyNoStand": "IB2300300141-01",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000013140",
+        "procuringEntityName": "TỔNG CÔNG TY MẠNG LƯỚI VIETTEL - CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+        "publicDate": "2023-11-07T08:24:15.508",
+        "status": "01",
+        "investorName": "TỔNG CÔNG TY MẠNG LƯỚI VIETTEL - CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+        "bidOpenDate": "2023-11-17T15:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300199219",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "06da796a-f0ea-4505-96a3-d2516709dd92",
+        "createdBy": "vnz000013140-19",
+        "bidPrice": [
+          4352096125
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "DCTTH"
+      },
+      {
+        "id": "e7260a43-d826-42d7-9771-0ba5654e47fd",
+        "notifyId": "e7260a43-d826-42d7-9771-0ba5654e47fd",
+        "bidCloseDate": "2023-11-17T08:30:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 13: Mua sắm thiết bị giáo dục"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội",
+            "districtCode": "10151",
+            "districtName": "Huyện Ba Vì"
+          }
+        ],
+        "notifyNo": "IB2300302866",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302866-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000005543",
+        "procuringEntityName": "BAN QLDA ĐẦU TƯ XÂY DỰNG HUYỆN BA VÌ",
+        "publicDate": "2023-11-07T08:23:50.033",
+        "status": "01",
+        "investorName": "BAN QLDA ĐẦU TƯ XÂY DỰNG HUYỆN BA VÌ",
+        "bidOpenDate": "2023-11-17T08:30:00",
+        "planType": "DTPT",
+        "planNo": "PL2300212652",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Bàn ghế giáo viên",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Smart Tivi 4K 65 inch bao gồm cả giá treo",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Loa trợ giảng không dây",
+          "Máy tính để bàn",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Bàn ghế giáo viên",
+          "Song loan",
+          "Kèn phím",
+          "Bộ âm thanh đa năng",
+          "Sáo ricotdo",
+          "Đàn ukulele",
+          "Bảng trượt chống lóa",
+          "Đàn Organ giáo viên",
+          "Đàn Organ học sinh",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Máy tính để bàn",
+          "Bàn ghế giáo viên",
+          "Bảng trượt chống lóa",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tủ đựng thiết bị dạy học",
+          "Gía vẽ",
+          "Giá để mẫu vẽ và dụng cụ học tập",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Máy tính để bàn",
+          "Bàn ghế giáo viên",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Bảng tương tác thông minh 94 inch",
+          "Máy chiếu khoảng cách gần ( máy chiếu cự ly gần)",
+          "Phụ kiện lắp đặt máy chiếu gần và bảng tương tác",
+          "Hệ thống thiết bị trả lời trắc nghiệm, kiểm tra đánh giá tương tác điện tử",
+          "Bộ âm thanh đa năng",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tủ đựng thiết bị dạy học",
+          "Rèm cửa",
+          "Máy tính xách tay",
+          "Phụ kiện máy tính xách tay",
+          "Rèm cửa",
+          "Bàn máy tính giáo viên",
+          "Ghế xoay",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Tủ điều khiển điện",
+          "Phụ kiện điện cho phòng tin học",
+          "Bàn máy tính dùng cho học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Máy tính để bàn",
+          "Máy in đen trắng",
+          "Bàn ghế giáo viên",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Tủ đựng thiết bị dạy học",
+          "Máy tính để bàn",
+          "Bàn ghế giáo viên",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Bàn học sinh 2 chỗ",
+          "Ghế học sinh 1 chỗ ngồi",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Bộ âm thanh đa năng",
+          "Máy tính để bàn",
+          "Bàn thí nghiệm GV phòng khoa học tự nhiên (môn hoá + sinh học)",
+          "Bàn thí nghiệm GV phòng khoa học tự nhiên (môn vật lý)",
+          "Ghế gỗ",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Bàn thí nghiệm học sinh phòng Vật Lý( 4 chỗ, 2 bảng điện)",
+          "Ghế thí nghiệm học sinh phòng khoa học tự nhiên (Loại đế 5 chân, mặt tròn) nhựa ABS",
+          "Tủ điều khiển điện",
+          "Tủ y tế thuốc cá nhân",
+          "Chậu rửa",
+          "Phụ kiện điện, nước cho phòng thí nghiệm",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Rèm cửa",
+          "Quạt thông gió",
+          "Máy tính để bàn",
+          "Bảng công tác",
+          "Tủ đựng thiết bị dạy học",
+          "Giá để thiết bị dạy học",
+          "Tủ đựng hóa chất",
+          "Tủ hút khí độc",
+          "Tủ sấy",
+          "Xe đẩy phòng TN",
+          "Quạt thông gió",
+          "Tivi 75 inch + Phụ kiện giá treo",
+          "Bàn thí nghiệm GV phòng công nghệ",
+          "Ghế gỗ",
+          "Bảng trượt chống lóa",
+          "Tủ đựng thiết bị dạy học",
+          "Bàn thí nghiệm học sinh phòng công nghệ ( 4 chỗ, 2 bảng điện)",
+          "Ghế thí nghiệm học sinh phòng khoa học tự nhiên (Loại đế 5 chân, mặt tròn) nhựa ABS",
+          "Tủ điều khiển điện",
+          "Tủ y tế thuốc cá nhân",
+          "Chậu rửa",
+          "Xe đẩy phòng TN",
+          "Quạt thông gió",
+          "Phụ kiện điện, nước cho phòng thí nghiệm",
+          "Rèm cửa",
+          "Máy tính để bàn",
+          "Bàn họp",
+          "Ghế gỗ",
+          "Tủ tài liệu",
+          "Bảng công tác",
+          "Bàn họp",
+          "Ghế gỗ",
+          "Tủ tài liệu",
+          "Máy tính để bàn",
+          "Máy in đen trắng",
+          "Bàn làm việc",
+          "Ghế xoay",
+          "Bàn họp",
+          "Ghế gỗ",
+          "Tủ tài liệu",
+          "Bộ trống nghi thức",
+          "Khẩu hiệu CHXHCNVN",
+          "Bộ sao vàng búa liềm bằng mica",
+          "Phông rèm trang trí",
+          "Tượng bác",
+          "Bục tượng bác",
+          "Bục phát biểu",
+          "Tủ trưng bày hiện vật thấp",
+          "Giá trang trí",
+          "Kệ trang trí",
+          "Bàn làm việc",
+          "Ghế gỗ",
+          "Tủ tài liệu",
+          "Tủ thuốc",
+          "Cân có thước đo chiều cao",
+          "Bộ thiết bị y tế khám bệnh",
+          "Thiết bị đo thị lực",
+          "Giường Inox",
+          "Bộ cáng, nẹp sơ cứu",
+          "Tủ lạnh",
+          "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Bàn làm việc",
+          "Ghế xoay",
+          "Ghế gỗ",
+          "Tủ tài liệu",
+          "Tủ tài liệu gỗ 4 cánh",
+          "Bàn làm việc",
+          "Ghế làm việc",
+          "Bàn ghế tiếp khách",
+          "Bảng công tác",
+          "Rèm cửa",
+          "Máy tính để bàn",
+          "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Máy in đen trắng",
+          "Tủ tài liệu gỗ 4 cánh",
+          "Bàn làm việc",
+          "Ghế làm việc",
+          "Bàn ghế tiếp khách",
+          "Bảng công tác",
+          "Rèm cửa",
+          "Máy tính để bàn",
+          "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Máy in đen trắng",
+          "Bàn làm việc",
+          "Ghế xoay",
+          "Tủ tài liệu",
+          "Rèm cửa",
+          "Máy tính để bàn",
+          "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Máy in đen trắng",
+          "Bàn làm việc",
+          "Ghế xoay",
+          "Bàn họp",
+          "Ghế gỗ",
+          "Rèm cửa",
+          "Máy tính để bàn",
+          "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Máy in đen trắng",
+          "Máy photocopy",
+          "Tủ sắt",
+          "Giá để thiết bị dạy học",
+          "Giá treo sản phẩm",
+          "Bàn hội trường",
+          "Ghế hội trường",
+          "Tượng bác",
+          "Bục tượng bác",
+          "Bục phát biểu",
+          "Khẩu hiệu CHXHCNVN",
+          "Bộ sao vàng búa liềm bằng mica",
+          "Phông rèm trang trí",
+          "Bảng công tác",
+          "Tivi 85 inch",
+          "Giá treo TV di động",
+          "Loa treo tường + Giá treo loa",
+          "Micro bàn gọi",
+          "Âm ly liền mixer",
+          "Bộ thu tín hiệu và Micro không dây",
+          "Tủ rack",
+          "Phụ kiện",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Rèm cửa",
+          "Bàn máy tính",
+          "Ghế xoay",
+          "Tủ hoặc hộp mục lục",
+          "Máy tính để bàn",
+          "Bàn đọc thư viện giáo viên (4 chỗ ngồi có vách ngăn)",
+          "Ghế 1 chỗ ngồi thư viện giáo viên",
+          "Giá báo, tạp chí",
+          "Tủ sách",
+          "Giá sách 2 mặt",
+          "Bàn máy tính giáo viên",
+          "Ghế xoay",
+          "Máy tính để bàn",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Bàn đọc thư viện học sinh (4 chỗ ngồi có vách ngăn)",
+          "Ghế một chỗ ngồi cho học sinh phòng thư viện",
+          "Giá báo, tạp chí",
+          "Tủ sách",
+          "Giá sách 2 mặt",
+          "Bàn máy tính",
+          "Ghế xoay",
+          "Máy tính để bàn",
+          "Điều hòa treo tường Inverter",
+          "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy",
+          "Cốt bảng bóng rổ",
+          "Bóng rổ",
+          "Cột, lưới cầu lông",
+          "Vợt cầu lông",
+          "Xà đơn",
+          "Xà kép",
+          "Cột nhảy cao",
+          "Xà nhảy cao",
+          "Đệm nhảy cao",
+          "Tủ đựng đồ dùng thể thao",
+          "Quạt cây công nghiệp",
+          "Loa full đôi 4 tấc",
+          "Mixer",
+          "Bộ xử lý tín hiệu",
+          "Bộ thu phát tín hiệu không dây",
+          "Âm ly",
+          "Cáp loa chuyên dụng",
+          "Dây tín hiệu",
+          "Phụ kiện",
+          "Tủ Rack",
+          "Loa kéo di động",
+          "Camera trong nhà",
+          "Camera ngoài trời",
+          "Đầu ghi hình 64 kênh",
+          "Ổ cứng",
+          "Màn hình ti vi + giá treo",
+          "Cáp mạng",
+          "Hộp kỹ thuật bảo vệ camera",
+          "Máng nhựa có nắp",
+          "Switch 24 port",
+          "Phụ kiện và nhân công lắp đặt, setup hệ thống",
+          "Máy hút bụi công nghiệp",
+          "Máy tính xách tay",
+          "Phụ kiện máy tính xách tay"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "f9f9cb39-8975-493b-a88e-b80a7a341e4d",
+        "createdBy": "vnz000005543-02",
+        "bidPrice": [
+          5943459000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Smart Tivi 4K 65 inch bao gồm cả giá treo"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Loa trợ giảng không dây"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Song loan"
+          },
+          {
+            "name": "Kèn phím"
+          },
+          {
+            "name": "Bộ âm thanh đa năng"
+          },
+          {
+            "name": "Sáo ricotdo"
+          },
+          {
+            "name": "Đàn ukulele"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Đàn Organ giáo viên"
+          },
+          {
+            "name": "Đàn Organ học sinh"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Gía vẽ"
+          },
+          {
+            "name": "Giá để mẫu vẽ và dụng cụ học tập"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Bảng tương tác thông minh 94 inch"
+          },
+          {
+            "name": "Máy chiếu khoảng cách gần ( máy chiếu cự ly gần)"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy chiếu gần và bảng tương tác"
+          },
+          {
+            "name": "Hệ thống thiết bị trả lời trắc nghiệm, kiểm tra đánh giá tương tác điện tử"
+          },
+          {
+            "name": "Bộ âm thanh đa năng"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính xách tay"
+          },
+          {
+            "name": "Phụ kiện máy tính xách tay"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Bàn máy tính giáo viên"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Tủ điều khiển điện"
+          },
+          {
+            "name": "Phụ kiện điện cho phòng tin học"
+          },
+          {
+            "name": "Bàn máy tính dùng cho học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn ghế giáo viên"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Bàn học sinh 2 chỗ"
+          },
+          {
+            "name": "Ghế học sinh 1 chỗ ngồi"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Bộ âm thanh đa năng"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn thí nghiệm GV phòng khoa học tự nhiên (môn hoá + sinh học)"
+          },
+          {
+            "name": "Bàn thí nghiệm GV phòng khoa học tự nhiên (môn vật lý)"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Bàn thí nghiệm học sinh phòng Vật Lý( 4 chỗ, 2 bảng điện)"
+          },
+          {
+            "name": "Ghế thí nghiệm học sinh phòng khoa học tự nhiên (Loại đế 5 chân, mặt tròn) nhựa ABS"
+          },
+          {
+            "name": "Tủ điều khiển điện"
+          },
+          {
+            "name": "Tủ y tế thuốc cá nhân"
+          },
+          {
+            "name": "Chậu rửa"
+          },
+          {
+            "name": "Phụ kiện điện, nước cho phòng thí nghiệm"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Quạt thông gió"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bảng công tác"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Giá để thiết bị dạy học"
+          },
+          {
+            "name": "Tủ đựng hóa chất"
+          },
+          {
+            "name": "Tủ hút khí độc"
+          },
+          {
+            "name": "Tủ sấy"
+          },
+          {
+            "name": "Xe đẩy phòng TN"
+          },
+          {
+            "name": "Quạt thông gió"
+          },
+          {
+            "name": "Tivi 75 inch + Phụ kiện giá treo"
+          },
+          {
+            "name": "Bàn thí nghiệm GV phòng công nghệ"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Bảng trượt chống lóa"
+          },
+          {
+            "name": "Tủ đựng thiết bị dạy học"
+          },
+          {
+            "name": "Bàn thí nghiệm học sinh phòng công nghệ ( 4 chỗ, 2 bảng điện)"
+          },
+          {
+            "name": "Ghế thí nghiệm học sinh phòng khoa học tự nhiên (Loại đế 5 chân, mặt tròn) nhựa ABS"
+          },
+          {
+            "name": "Tủ điều khiển điện"
+          },
+          {
+            "name": "Tủ y tế thuốc cá nhân"
+          },
+          {
+            "name": "Chậu rửa"
+          },
+          {
+            "name": "Xe đẩy phòng TN"
+          },
+          {
+            "name": "Quạt thông gió"
+          },
+          {
+            "name": "Phụ kiện điện, nước cho phòng thí nghiệm"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn họp"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Bảng công tác"
+          },
+          {
+            "name": "Bàn họp"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Bàn họp"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Bộ trống nghi thức"
+          },
+          {
+            "name": "Khẩu hiệu CHXHCNVN"
+          },
+          {
+            "name": "Bộ sao vàng búa liềm bằng mica"
+          },
+          {
+            "name": "Phông rèm trang trí"
+          },
+          {
+            "name": "Tượng bác"
+          },
+          {
+            "name": "Bục tượng bác"
+          },
+          {
+            "name": "Bục phát biểu"
+          },
+          {
+            "name": "Tủ trưng bày hiện vật thấp"
+          },
+          {
+            "name": "Giá trang trí"
+          },
+          {
+            "name": "Kệ trang trí"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Tủ thuốc"
+          },
+          {
+            "name": "Cân có thước đo chiều cao"
+          },
+          {
+            "name": "Bộ thiết bị y tế khám bệnh"
+          },
+          {
+            "name": "Thiết bị đo thị lực"
+          },
+          {
+            "name": "Giường Inox"
+          },
+          {
+            "name": "Bộ cáng, nẹp sơ cứu"
+          },
+          {
+            "name": "Tủ lạnh"
+          },
+          {
+            "name": "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Tủ tài liệu gỗ 4 cánh"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế làm việc"
+          },
+          {
+            "name": "Bàn ghế tiếp khách"
+          },
+          {
+            "name": "Bảng công tác"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Tủ tài liệu gỗ 4 cánh"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế làm việc"
+          },
+          {
+            "name": "Bàn ghế tiếp khách"
+          },
+          {
+            "name": "Bảng công tác"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Tủ tài liệu"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Bàn làm việc"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Bàn họp"
+          },
+          {
+            "name": "Ghế gỗ"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường 12000 Btu/h 1 chiều Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Máy in đen trắng"
+          },
+          {
+            "name": "Máy photocopy"
+          },
+          {
+            "name": "Tủ sắt"
+          },
+          {
+            "name": "Giá để thiết bị dạy học"
+          },
+          {
+            "name": "Giá treo sản phẩm"
+          },
+          {
+            "name": "Bàn hội trường"
+          },
+          {
+            "name": "Ghế hội trường"
+          },
+          {
+            "name": "Tượng bác"
+          },
+          {
+            "name": "Bục tượng bác"
+          },
+          {
+            "name": "Bục phát biểu"
+          },
+          {
+            "name": "Khẩu hiệu CHXHCNVN"
+          },
+          {
+            "name": "Bộ sao vàng búa liềm bằng mica"
+          },
+          {
+            "name": "Phông rèm trang trí"
+          },
+          {
+            "name": "Bảng công tác"
+          },
+          {
+            "name": "Tivi 85 inch"
+          },
+          {
+            "name": "Giá treo TV di động"
+          },
+          {
+            "name": "Loa treo tường + Giá treo loa"
+          },
+          {
+            "name": "Micro bàn gọi"
+          },
+          {
+            "name": "Âm ly liền mixer"
+          },
+          {
+            "name": "Bộ thu tín hiệu và Micro không dây"
+          },
+          {
+            "name": "Tủ rack"
+          },
+          {
+            "name": "Phụ kiện"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Rèm cửa"
+          },
+          {
+            "name": "Bàn máy tính"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Tủ hoặc hộp mục lục"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Bàn đọc thư viện giáo viên (4 chỗ ngồi có vách ngăn)"
+          },
+          {
+            "name": "Ghế 1 chỗ ngồi thư viện giáo viên"
+          },
+          {
+            "name": "Giá báo, tạp chí"
+          },
+          {
+            "name": "Tủ sách"
+          },
+          {
+            "name": "Giá sách 2 mặt"
+          },
+          {
+            "name": "Bàn máy tính giáo viên"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Bàn đọc thư viện học sinh (4 chỗ ngồi có vách ngăn)"
+          },
+          {
+            "name": "Ghế một chỗ ngồi cho học sinh phòng thư viện"
+          },
+          {
+            "name": "Giá báo, tạp chí"
+          },
+          {
+            "name": "Tủ sách"
+          },
+          {
+            "name": "Giá sách 2 mặt"
+          },
+          {
+            "name": "Bàn máy tính"
+          },
+          {
+            "name": "Ghế xoay"
+          },
+          {
+            "name": "Máy tính để bàn"
+          },
+          {
+            "name": "Điều hòa treo tường Inverter"
+          },
+          {
+            "name": "Phụ kiện lắp đặt máy điều hòa treo tường  BTU: Khối lượng cho 1 máy"
+          },
+          {
+            "name": "Cốt bảng bóng rổ"
+          },
+          {
+            "name": "Bóng rổ"
+          },
+          {
+            "name": "Cột, lưới cầu lông"
+          },
+          {
+            "name": "Vợt cầu lông"
+          },
+          {
+            "name": "Xà đơn"
+          },
+          {
+            "name": "Xà kép"
+          },
+          {
+            "name": "Cột nhảy cao"
+          },
+          {
+            "name": "Xà nhảy cao"
+          },
+          {
+            "name": "Đệm nhảy cao"
+          },
+          {
+            "name": "Tủ đựng đồ dùng thể thao"
+          },
+          {
+            "name": "Quạt cây công nghiệp"
+          },
+          {
+            "name": "Loa full đôi 4 tấc"
+          },
+          {
+            "name": "Mixer"
+          },
+          {
+            "name": "Bộ xử lý tín hiệu"
+          },
+          {
+            "name": "Bộ thu phát tín hiệu không dây"
+          },
+          {
+            "name": "Âm ly"
+          },
+          {
+            "name": "Cáp loa chuyên dụng"
+          },
+          {
+            "name": "Dây tín hiệu"
+          },
+          {
+            "name": "Phụ kiện"
+          },
+          {
+            "name": "Tủ Rack"
+          },
+          {
+            "name": "Loa kéo di động"
+          },
+          {
+            "name": "Camera trong nhà"
+          },
+          {
+            "name": "Camera ngoài trời"
+          },
+          {
+            "name": "Đầu ghi hình 64 kênh"
+          },
+          {
+            "name": "Ổ cứng"
+          },
+          {
+            "name": "Màn hình ti vi + giá treo"
+          },
+          {
+            "name": "Cáp mạng"
+          },
+          {
+            "name": "Hộp kỹ thuật bảo vệ camera"
+          },
+          {
+            "name": "Máng nhựa có nắp"
+          },
+          {
+            "name": "Switch 24 port"
+          },
+          {
+            "name": "Phụ kiện và nhân công lắp đặt, setup hệ thống"
+          },
+          {
+            "name": "Máy hút bụi công nghiệp"
+          },
+          {
+            "name": "Máy tính xách tay"
+          },
+          {
+            "name": "Phụ kiện máy tính xách tay"
+          }
+        ]
+      },
+      {
+        "id": "77148ed1-6082-4b6b-b107-ead21516f1e1",
+        "notifyId": "77148ed1-6082-4b6b-b107-ead21516f1e1",
+        "bidCloseDate": "2023-11-30T08:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_HTHS",
+        "bidName": [
+          "Gói thầu số 01: Lập Kế hoạch sử dụng đất huyện Lâm Hà năm 2024"
+        ],
+        "investField": [
+          "TV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "703",
+            "provName": "Tỉnh Lâm Đồng",
+            "districtCode": "70311",
+            "districtName": "Huyện Lâm Hà"
+          }
+        ],
+        "notifyNo": "IB2300294303",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300294303-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn5801235411",
+        "procuringEntityName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN XÂY DỰNG KIM HÀ SÁNG",
+        "publicDate": "2023-11-07T08:23:26.976",
+        "status": "01",
+        "bidOpenDate": "2023-11-30T08:00:00",
+        "planType": "TX",
+        "planNo": "PL2300206960",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Chi phí trực tiếp",
+          "Chi phí chung"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "f24af1e5-4db0-46d4-befb-83f04fa797a9",
+        "createdBy": "vn5801235411",
+        "bidPrice": [
+          1153356881
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Chi phí trực tiếp"
+          },
+          {
+            "name": "Chi phí chung"
+          }
+        ]
+      },
+      {
+        "id": "08cabc03-f9ff-401f-b30a-caca79bd5ed0",
+        "notifyId": "08cabc03-f9ff-401f-b30a-caca79bd5ed0",
+        "bidCloseDate": "2023-11-14T10:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói 1. Mua sắm vật tư y tế, sinh phẩm y tế, hóa chất xét nghiệm năm 2023 của Bệnh viện Mắt Hưng Yên"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "109",
+            "provName": "Tỉnh Hưng Yên"
+          }
+        ],
+        "notifyNo": "IB2300302481",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302481-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vnz000021977",
+        "procuringEntityName": "Bệnh viện Mắt Hưng Yên",
+        "publicDate": "2023-11-07T08:23:06.71",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T10:00:00",
+        "planType": "TX",
+        "planNo": "PL2300203350",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Găng tay cao su y tế đã tiệt trùng",
+          "Găng tay cao su y tế chưa tiệt trùng có bột",
+          "Ống nghiệm nước tiểu 16mm x 10 cm",
+          "Ống chống đông EDTA có nút cao su",
+          "Ống nghiệm Heparin",
+          "Chỉ khâu không tiêu Nylon liền kim nhãn khoa số 10/0",
+          "Đầu côn trắng, xanh hoặc vàng",
+          "Ống ly tâm Eppendorf các cỡ",
+          "Ống nghiệm nhựa có nút",
+          "Giấy in điện tim 06 cần",
+          "Giấy in nhiệt dùng cho máy xét nghiệm",
+          "Lamen",
+          "Lam kính",
+          "Test thử phát hiện sớm HIV (Kháng nguyên, kháng thể)",
+          "Hóa chất kiểm tra, kiểm soát cho xét nghiệm thường quy mức bình thường",
+          "Hóa chất kiểm tra, kiểm soát cho xét nghiệm mức bất thường",
+          "Hóa chất hiệu chuẩn cho xét nghiệm sinh hóa thường quy dải thường",
+          "Dung dịch rửa kim",
+          "Bộ nhuộm Gram"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "b32eaec5-6a7f-494d-8156-314c47319809",
+        "createdBy": "vnz000021977",
+        "bidPrice": [
+          289108450
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Găng tay cao su y tế đã tiệt trùng"
+          },
+          {
+            "name": "Găng tay cao su y tế chưa tiệt trùng có bột"
+          },
+          {
+            "name": "Ống nghiệm nước tiểu 16mm x 10 cm"
+          },
+          {
+            "name": "Ống chống đông EDTA có nút cao su"
+          },
+          {
+            "name": "Ống nghiệm Heparin"
+          },
+          {
+            "name": "Chỉ khâu không tiêu Nylon liền kim nhãn khoa số 10/0"
+          },
+          {
+            "name": "Đầu côn trắng, xanh hoặc vàng"
+          },
+          {
+            "name": "Ống ly tâm Eppendorf các cỡ"
+          },
+          {
+            "name": "Ống nghiệm nhựa có nút"
+          },
+          {
+            "name": "Giấy in điện tim 06 cần"
+          },
+          {
+            "name": "Giấy in nhiệt dùng cho máy xét nghiệm"
+          },
+          {
+            "name": "Lamen"
+          },
+          {
+            "name": "Lam kính"
+          },
+          {
+            "name": "Test thử phát hiện sớm HIV (Kháng nguyên, kháng thể)"
+          },
+          {
+            "name": "Hóa chất kiểm tra, kiểm soát cho xét nghiệm thường quy mức bình thường"
+          },
+          {
+            "name": "Hóa chất kiểm tra, kiểm soát cho xét nghiệm mức bất thường"
+          },
+          {
+            "name": "Hóa chất hiệu chuẩn cho xét nghiệm sinh hóa thường quy dải thường"
+          },
+          {
+            "name": "Dung dịch rửa kim"
+          },
+          {
+            "name": "Bộ nhuộm Gram"
+          }
+        ]
+      },
+      {
+        "id": "ab1628d8-bc5c-4559-86cf-3986a2fc5ed4",
+        "notifyId": "ab1628d8-bc5c-4559-86cf-3986a2fc5ed4",
+        "bidCloseDate": "2023-11-17T09:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Thi công xây dựng (bao gồm chi phí đảm bảo an toàn giao thông)"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "709",
+            "provName": "Tỉnh Tây Ninh",
+            "districtCode": "70901",
+            "districtName": "Thành phố Tây Ninh"
+          }
+        ],
+        "notifyNo": "IB2300302674",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302674-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn3900370376",
+        "procuringEntityName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN TƯ VẤN VÀ ĐẦU TƯ XÂY DỰNG ĐẠI HƯNG",
+        "publicDate": "2023-11-07T08:22:40.424",
+        "status": "01",
+        "investorName": "Ban Quản lý dự án đầu tư xây dựng thành phố Tây Ninh",
+        "bidOpenDate": "2023-11-17T09:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300209273",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "công trình hệ thống thoát nước cấp IV",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "9cba75df-7bd7-47b2-9c8e-3abaa8b74387",
+        "createdBy": "vn3900370376",
+        "bidPrice": [
+          1228848256
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "công trình hệ thống thoát nước cấp IV"
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTDB"
+      },
+      {
+        "id": "95f8c571-5c15-44f3-83f3-f6e3f03a1bd4",
+        "notifyId": "95f8c571-5c15-44f3-83f3-f6e3f03a1bd4",
+        "bidCloseDate": "2023-11-17T08:00:00",
+        "bidForm": "DTRR",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 1: Thi công xây dựng"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "807",
+            "provName": "Tỉnh Tiền Giang",
+            "districtCode": "80709",
+            "districtName": "Huyện Cai Lậy"
+          }
+        ],
+        "notifyNo": "IB2300300559",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300559-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn1200781144",
+        "procuringEntityName": "Ban Quản lý dự án và Phát triển quỹ đất huyện Cai Lậy",
+        "publicDate": "2023-11-07T08:21:40.045",
+        "status": "01",
+        "investorName": "Ban Quản lý dự án và Phát triển quỹ đất huyện Cai Lậy",
+        "bidOpenDate": "2023-11-17T08:00:00",
+        "planType": "DTPT",
+        "planNo": "PL2300210545",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Công trình giao thông cấp 4",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "d94b6ba2-c3e5-4445-9360-fa61033340e8",
+        "createdBy": "vn1200781144-02",
+        "bidPrice": [
+          1930961597
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Công trình giao thông cấp 4"
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTDB"
+      },
+      {
+        "id": "e93ba95f-7b27-4f74-bcaf-b640a9054030",
+        "notifyId": "e93ba95f-7b27-4f74-bcaf-b640a9054030",
+        "bidCloseDate": "2023-11-10T08:30:00",
+        "bidForm": "CHCTRG",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu: Mua sắm trang thiết bị phục vụ cho các hoạt động văn hoá, văn nghệ, thể theo các thôn, xã Văn Lang, huyện Na Rì, tỉnh Bắc Kạn"
+        ],
+        "investField": [
+          "HH"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "207",
+            "provName": "Tỉnh Bắc Kạn",
+            "districtCode": "20709",
+            "districtName": "Huyện Na Rì"
+          }
+        ],
+        "notifyNo": "IB2300302466",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300302466-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn4700278752",
+        "procuringEntityName": "ỦY BAN NHÂN DÂN XÃ VĂN LANG HUYỆN NA RÌ",
+        "publicDate": "2023-11-07T08:17:48.119",
+        "status": "01",
+        "bidOpenDate": "2023-11-10T08:30:00",
+        "planType": "TX",
+        "planNo": "PL2300212421",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Loa kéo",
+          "Bộ Âm ly + Loa"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "3320eff0-7999-4ac9-9036-3623be92667f",
+        "createdBy": "vn4700278752",
+        "bidPrice": [
+          159800000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Loa kéo"
+          },
+          {
+            "name": "Bộ Âm ly + Loa"
+          }
+        ]
+      },
+      {
+        "id": "70a52545-8411-4b7e-aa7d-800fea6feaa8",
+        "notifyId": "70a52545-8411-4b7e-aa7d-800fea6feaa8",
+        "bidCloseDate": "2023-11-14T09:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Gói thầu số 3: Thi công sửa chữa điểm kho Tuyên Quang"
+        ],
+        "investField": [
+          "XL"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "211",
+            "provName": "Tỉnh Tuyên Quang",
+            "districtCode": "21101",
+            "districtName": "Thành Phố Tuyên Quang"
+          }
+        ],
+        "notifyNo": "IB2300291153",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300291153-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn5000780408",
+        "procuringEntityName": "Cục Dự trữ Nhà nước khu vực Hoàng Liên Sơn",
+        "publicDate": "2023-11-07T08:14:37.163",
+        "status": "01",
+        "bidOpenDate": "2023-11-14T09:00:00",
+        "planType": "TX",
+        "planNo": "PL2300200488",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          " cấp ",
+          " cấp "
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "2ceec7ce-a227-4721-9eab-6af50c657580",
+        "createdBy": "vn5000780408-02",
+        "bidPrice": [
+          363781000
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": " cấp "
+          },
+          {
+            "name": " cấp "
+          }
+        ],
+        "workType": "CTDB"
+      },
+      {
+        "id": "bd4795fc-692f-4a87-b6f0-ce1ee01644fd",
+        "notifyId": "bd4795fc-692f-4a87-b6f0-ce1ee01644fd",
+        "bidCloseDate": "2023-11-15T09:00:00",
+        "bidForm": "CHCT",
+        "bidMode": "1_MTHS",
+        "bidName": [
+          "Cung cấp dịch vụ bảo trì và bảo hành mở rộng thiết bị phần cứng quan trọng hệt hống thẻ (IBM)"
+        ],
+        "investField": [
+          "PTV"
+        ],
+        "isInternet": 1,
+        "locations": [
+          {
+            "provCode": "101",
+            "provName": "Thành phố Hà Nội"
+          }
+        ],
+        "notifyNo": "IB2300300894",
+        "notifyVersion": "00",
+        "notifyNoStand": "IB2300300894-00",
+        "processApply": "LDT",
+        "procuringEntityCode": "vn2700113651",
+        "procuringEntityName": "NGÂN HÀNG THƯƠNG MẠI TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN DẦU KHÍ TOÀN CẦU  ",
+        "publicDate": "2023-11-07T08:13:27.218",
+        "status": "01",
+        "bidOpenDate": "2023-11-15T09:05:00",
+        "planType": "TX",
+        "planNo": "PL2300206267",
+        "stepCode": "notify-contractor-step-1-tbmt",
+        "type": "es-notify-contractor",
+        "statusForNotify": "",
+        "goods": [
+          "Dịch vụ bảo hành, bảo trì máy chủ IBM P710, số hiệu 8231-E1C, serial number 0656F4T",
+          "Dịch vụ bảo hành, bảo trì máy chủ IBM P710, số hiệu 8231-E1C, serial number 0656F5T",
+          "Dịch vụ bảo hành, bảo trì IBM Storage DS3524, số hiệu 1746-A4D, serial number 13D1MOP",
+          "Dịch vụ bảo hành, bảo trì SAN24B 4 EXPRESS, số hiệu 2498 – 24E, serial number 10315MB",
+          "Dịch vụ bảo hành, bảo tìSAN24B 4 EXPRESS, số hiệu 2498 – 24E, serial number 10315HD"
+        ],
+        "numPetition": 0,
+        "numClarifyReq": 0,
+        "numBidderTech": 0,
+        "bidId": "57f2ed2d-d324-4f8f-9f59-0d46d2e673f7",
+        "createdBy": "vn2700113651",
+        "bidPrice": [
+          1059262920
+        ],
+        "numPetitionHsmt": 0,
+        "numPetitionLcnt": 0,
+        "numPetitionKqlcnt": 0,
+        "score": "NaN",
+        "pvccNew": [
+          {
+            "name": "Dịch vụ bảo hành, bảo trì máy chủ IBM P710, số hiệu 8231-E1C, serial number 0656F4T"
+          },
+          {
+            "name": "Dịch vụ bảo hành, bảo trì máy chủ IBM P710, số hiệu 8231-E1C, serial number 0656F5T"
+          },
+          {
+            "name": "Dịch vụ bảo hành, bảo trì IBM Storage DS3524, số hiệu 1746-A4D, serial number 13D1MOP"
+          },
+          {
+            "name": "Dịch vụ bảo hành, bảo trì SAN24B 4 EXPRESS, số hiệu 2498 – 24E, serial number 10315MB"
+          },
+          {
+            "name": "Dịch vụ bảo hành, bảo tìSAN24B 4 EXPRESS, số hiệu 2498 – 24E, serial number 10315HD"
+          }
+        ]
+      }
+    ],
+    "totalPages": 200,
+    "pageSize": 50,
+    "currentPage": 0,
+    "totalElements": 10000,
+    "sort": null,
+    "first": true,
+    "last": false,
+    "empty": false
+  },
+  "agg": [
+    {
+      "name": "status_dxt_blanks",
+      "buckets": [
+        {
+          "aggregations": {
+            "asMap": {},
+            "fragment": true
+          },
+          "keyAsString": "0",
+          "docCount": 2083,
+          "key": "0",
+          "fragment": true
+        }
+      ],
+      "type": "filters",
+      "fragment": true
+    },
+    {
+      "aggregationName": "facet_is_closed_date",
+      "aggregationType": "range",
+      "bucketRanges": [
+        {
+          "key": "closed",
+          "docCount": 181003
+        },
+        {
+          "key": "open",
+          "docCount": 6728
+        }
+      ]
+    },
+    {
+      "aggregationName": "facet_status_notify",
+      "aggregationType": "string_term",
+      "bucketTerms": [
+        {
+          "key": "CNTTT",
+          "docCount": 147579
+        },
+        {
+          "key": "",
+          "docCount": 21172
+        },
+        {
+          "key": "DXT",
+          "docCount": 16680
+        },
+        {
+          "key": "DHT",
+          "docCount": 10215
+        },
+        {
+          "key": "DHTBMT",
+          "docCount": 2405
+        },
+        {
+          "key": "KCNTTT",
+          "docCount": 1506
+        },
+        {
+          "key": "KCN",
+          "docCount": 13
+        },
+        {
+          "key": "VHH",
+          "docCount": 4
+        }
+      ]
+    }
+  ],
+  "list_link": [
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=95324e6b-7ffa-4471-a198-2ac8e70161c8&notifyId=95324e6b-7ffa-4471-a198-2ac8e70161c8&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300302973&planNo=PL2300212368&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=cf068e5c-09f4-4ed9-aa55-c29e4ab47f3a&notifyId=cf068e5c-09f4-4ed9-aa55-c29e4ab47f3a&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300291901&planNo=PL2300194866&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=089953cd-e6c1-4a56-8138-72103070cda3&notifyId=089953cd-e6c1-4a56-8138-72103070cda3&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300302795&planNo=PL2300186071&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=4eaa9f3a-a62a-4021-9653-68396cbaf32c&notifyId=4eaa9f3a-a62a-4021-9653-68396cbaf32c&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300288572&planNo=PL2300201296&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=86d54948-6185-4f3d-b946-efc14dd3d591&notifyId=86d54948-6185-4f3d-b946-efc14dd3d591&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300302979&planNo=PL2300211469&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=327b0ca8-409e-4221-8cbb-5a4c389ac575&notifyId=327b0ca8-409e-4221-8cbb-5a4c389ac575&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300300700&planNo=PL2300211101&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=26f5d6ef-ce3f-4dba-8f5d-8d618db07bbe&notifyId=26f5d6ef-ce3f-4dba-8f5d-8d618db07bbe&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300269682&planNo=PL2300190297&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=2e2f00dc-4370-46d5-9e8f-01d25c8d5576&notifyId=2e2f00dc-4370-46d5-9e8f-01d25c8d5576&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300303008&planNo=PL2300212723&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=7c025863-7cc5-4a5c-9538-bdf5560ca216&notifyId=7c025863-7cc5-4a5c-9538-bdf5560ca216&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300292769&planNo=PL2300205774&pno=undefined&step=tbmt"
+    },
+    {
+      "link": "https://muasamcong.mpi.gov.vn/web/guest/contractor-selection?p_p_id=egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_egpportalcontractorselectionv2_WAR_egpportalcontractorselectionv2_render=detail&type=es-notify-contractor&stepCode=notify-contractor-step-1-tbmt&id=ff7788ee-eb3a-4c4f-b62f-1089d834292f&notifyId=ff7788ee-eb3a-4c4f-b62f-1089d834292f&inputResultId=undefined&bidOpenId=undefined&techReqId=undefined&bidPreNotifyResultId=undefined&bidPreOpenId=undefined&processApply=LDT&bidMode=1_MTHS&notifyNo=IB2300303042&planNo=PL2300188637&pno=undefined&step=tbmt"
+    }
+  ]
+}
