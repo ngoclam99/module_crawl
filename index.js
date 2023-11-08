@@ -8,14 +8,7 @@ app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.set("views", "./views");
 
-let puppeteer;
-if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
-    chrome = require("chrome-aws-lambda");
-    puppeteer = require("puppeteer-core")
-} else {
-    puppeteer = require('puppeteer');
-}
-
+puppeteer = require('puppeteer');
 // Khởi tạo server
 var server = require("http").Server(app);
 var io = require("socket.io")(server)
@@ -63,23 +56,11 @@ io.on("connection", function(socket) {
 
 app.get('/api', (req, res) => {
     (async () => {
-        let option = {};
-        if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
-            option = {
-                args: [...chrome.args, "--hide-scrollbars", "--disable-web-security"],
-                defaultViewport: chrome.defaultViewport,
-                executablePath: await chrome.executablePath,
-                headless: true, // có hiện ui của Chromium hay không, false là có
-                devtools: false,
-                'ignoreHTTPSErrors': true
-            };
-        } else {
-            option = {
-                headless: true, // có hiện ui của Chromium hay không, false là có
-                devtools: false,
-                'ignoreHTTPSErrors': true
-            };
-        }
+        option = {
+            headless: true, // có hiện ui của Chromium hay không, false là có
+            devtools: false,
+            'ignoreHTTPSErrors': true
+        };
 
         const browser = await puppeteer.launch(option);
         const page = await browser.newPage();
