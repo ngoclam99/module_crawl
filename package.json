@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "node build.js",
+    "start-chrome": "CHROME_EXECUTABLE_PATH=/usr/bin/google-chrome node index.js"
   },
   "author": "",
   "license": "ISC",
