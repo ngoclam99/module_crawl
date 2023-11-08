@@ -8,7 +8,7 @@ app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.set("views", "./views");
 
-puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer');
 // Khởi tạo server
 var server = require("http").Server(app);
 var io = require("socket.io")(server)
@@ -56,13 +56,11 @@ app.get("/", function(req, res) {
 
 app.get('/api', (req, res) => {
     (async () => {
-        option = {
+        const browser = await puppeteer.launch({
             headless: true, // có hiện ui của Chromium hay không, false là có
             devtools: false,
             'ignoreHTTPSErrors': true
-        };
-
-        const browser = await puppeteer.launch(option);
+        });
         const page = await browser.newPage();
     
         // Kích hoạt Request Interception
