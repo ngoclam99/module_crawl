@@ -50,9 +50,9 @@ io.on("connection", function(socket) {
     
 });
 
-// app.get("/", function(req, res) {
-//     res.render("index");
-// });
+app.get("/", function(req, res) {
+    res.send("Chào mừng các bạn đến website");
+});
 
 app.get('/api', (req, res) => {
     (async () => {
