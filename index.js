@@ -57,7 +57,7 @@ app.get("/", function(req, res) {
 app.get('/api', (req, res) => {
     (async () => {
         const browser = await puppeteer.launch({
-            headless: true, // có hiện ui của Chromium hay không, false là có
+            headless: false, // có hiện ui của Chromium hay không, false là có
             devtools: false,
             'ignoreHTTPSErrors': true
         });
